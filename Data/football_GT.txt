@@ -1,0 +1,12 @@
+C1:  Clemson Duke FloridaState GeorgiaTech Maryland NorthCarolina NorthCarolinaState Virginia WakeForest
+C2:  BostonCollege MiamiFlorida Pittsburgh Rutgers Syracuse Temple VirginiaTech WestVirginia
+C3:  ArkansasState Idaho LouisianaLafayette LouisianaMonroe MiddleTennesseeState NewMexicoState NorthTexas
+C4:  BoiseState FresnoState Hawaii LouisianaTech Nevada Rice SanJoseState SouthernMethodist TexasElPaso Tulsa
+C5:  Illinois Indiana Iowa Michigan MichiganState Minnesota Northwestern OhioState PennState Purdue Wisconsin
+C6:  Baylor Colorado IowaState Kansas KansasState Missouri Nebraska Oklahoma OklahomaState Texas TexasA&M TexasTech
+C7:  AlabamaBirmingham Army Cincinnati EastCarolina Houston Louisville Memphis SouthernMississippi TexasChristian Tulane
+C8:  CentralFlorida Connecticut Navy NotreDame UtahState
+C9:  Akron BallState BowlingGreenState Buffalo CentralMichigan EasternMichigan Kent Marshall MiamiOhio NorthernIllinois Ohio Toledo WesternMichigan
+C10:  AirForce BrighamYoung ColoradoState NevadaLasVegas NewMexico SanDiegoState Utah Wyoming
+C11:  Arizona ArizonaState California Oregon OregonState SouthernCalifornia Stanford UCLA Washington WashingtonState
+C12:  Alabama Arkansas Auburn Florida Georgia Kentucky LouisianaState Mississippi MississippiState SouthCarolina Tennessee Vanderbilt

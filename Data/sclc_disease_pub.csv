@@ -1,0 +1,2493 @@
+txt,txt.1,num,num.1,num.2
+co-trimoxazole allergy,sodium aurothiomalate allergy,1,1,0.7418422139611731
+co-trimoxazole allergy,immune system disease,1,1,0.6230845279288184
+sodium aurothiomalate allergy,co-trimoxazole allergy,1,1,0.7418422139611731
+sodium aurothiomalate allergy,immune system disease,1,1,0.6230845279288184
+invasive aspergillosis,aspergillosis,1,1,0.6786872208968007
+invasive aspergillosis,lung disease,1,1,0.6467181467181468
+La Crosse encephalitis,traumatic brain injury,1,1,0.6357167062012878
+La Crosse encephalitis,Huntington's disease-like 1,1,1,0.6542079055757054
+La Crosse encephalitis,complex cortical dysplasia with other brain malformations,1,1,0.6357167062012878
+La Crosse encephalitis,Eastern equine encephalitis,1,1,0.8162305204351662
+La Crosse encephalitis,epilepsy,1,1,0.6357167062012878
+La Crosse encephalitis,cerebral palsy,1,1,0.6357167062012878
+La Crosse encephalitis,brain edema,1,1,0.6357167062012878
+La Crosse encephalitis,movement disease,1,1,0.6357167062012878
+La Crosse encephalitis,brain disease,1,1,0.734597981204316
+La Crosse encephalitis,encephalitis,1,1,0.6357167062012878
+cryptogenic organizing pneumonia,idiopathic interstitial pneumonia,1,1,0.8832090054265768
+cryptogenic organizing pneumonia,aspiration pneumonitis,1,1,0.672985215194415
+cryptogenic organizing pneumonia,pneumonia,1,1,0.7847565548803822
+cryptogenic organizing pneumonia,lung disease,1,1,0.699249009986905
+erythema multiforme,epidermal nevus,1,1,0.6011131725417439
+erythema multiforme,dermatitis,1,1,0.6011131725417439
+hypophosphatemia,calcium metabolism disease,1,1,0.6028864482163928
+hypophosphatemia,hypokalemia,1,1,0.6028864482163928
+inflammatory bowel disease,colitis,1,1,0.7855508959207014
+inflammatory bowel disease,anal fistula,1,1,0.6249464209172738
+inflammatory bowel disease,protein-losing enteropathy,1,1,0.7216035634743876
+inflammatory bowel disease,functional diarrhea,1,1,0.6312684365781711
+inflammatory bowel disease,intestinal perforation,1,1,0.7216035634743876
+inflammatory bowel disease,duodenal obstruction,1,1,0.6312684365781711
+inflammatory bowel disease,duodenogastric reflux,1,1,0.6312684365781711
+inflammatory bowel disease,chronic intestinal vascular insufficiency,1,1,0.7216035634743876
+inflammatory bowel disease,bowel dysfunction,1,1,0.7216035634743876
+alcohol-related birth defects,attention deficit hyperactivity disorder,1,1,0.6028864482163928
+alcohol-related birth defects,learning disability,1,1,0.6028864482163928
+cardiomyopathy,atrioventricular block,1,1,0.6750835499443001
+cardiomyopathy,second-degree atrioventricular block,1,1,0.6064289375411877
+cardiomyopathy,left ventricular failure,1,1,0.6750835499443001
+cardiomyopathy,atrial fibrillation,1,1,0.6750835499443001
+cardiomyopathy,arrhythmogenic biventricular cardiomyopathy,1,1,0.794061653364575
+cardiomyopathy,heart conduction disease,1,1,0.7637051039697543
+cardiomyopathy,heart disease,1,1,0.879110251450677
+cardiomyopathy,pulmonary valve insufficiency,1,1,0.6165370621388315
+cardiomyopathy,congestive heart failure,1,1,0.7637051039697543
+cardiomyopathy,myocarditis,1,1,0.802866755449639
+cardiomyopathy,rheumatic myocarditis,1,1,0.633654810678849
+cardiomyopathy,acute pulmonary heart disease,1,1,0.6064289375411877
+cardiomyopathy,Cor pulmonale,1,1,0.6750835499443001
+alcohol dependence,nicotine dependence,1,1,0.7025226082817706
+alcohol dependence,substance-related disorder,1,1,0.6897407611693327
+alcohol dependence,drug dependence,1,1,0.7025226082817706
+nicotine dependence,alcohol dependence,1,1,0.7025226082817706
+nicotine dependence,substance-related disorder,1,1,0.6897407611693327
+nicotine dependence,drug dependence,1,1,0.7025226082817706
+cerebellar ataxia,brain disease,1,1,0.6597096188747732
+metabolic acidosis,diabetic ketoacidosis,1,1,0.841611758743031
+primary progressive multiple sclerosis,multiple sclerosis,1,1,0.925041976493164
+primary progressive multiple sclerosis,relapsing-remitting multiple sclerosis,1,1,0.845793239575623
+atrioventricular block,cardiomyopathy,1,1,0.6750835499443001
+atrioventricular block,second-degree atrioventricular block,1,1,0.8875656616535943
+atrioventricular block,atrial fibrillation,1,1,0.771981028821598
+atrioventricular block,heart conduction disease,1,1,0.8839584106943931
+atrioventricular block,heart disease,1,1,0.7863653627041399
+atrioventricular block,congestive heart failure,1,1,0.6750835499443001
+second-degree atrioventricular block,cardiomyopathy,1,1,0.6064289375411877
+second-degree atrioventricular block,atrioventricular block,1,1,0.8875656616535943
+second-degree atrioventricular block,atrial fibrillation,1,1,0.6851838526300641
+second-degree atrioventricular block,heart conduction disease,1,1,0.794061653364575
+second-degree atrioventricular block,heart disease,1,1,0.714569139776896
+second-degree atrioventricular block,congestive heart failure,1,1,0.6064289375411877
+artery disease,peripheral artery disease,1,1,0.8660522931847405
+artery disease,limb ischemia,1,1,0.6249464209172738
+artery disease,thrombosis,1,1,0.7216035634743876
+artery disease,nonobstructive coronary artery disease,1,1,0.7659565615378214
+artery disease,Raynaud disease,1,1,0.6249464209172738
+artery disease,hypertension,1,1,0.8660522931847405
+artery disease,vertebral artery occlusion,1,1,0.6366988088485535
+artery disease,carotid stenosis,1,1,0.6308830121021963
+artery disease,vascular disease,1,1,0.8536299765807963
+artery disease,arteriosclerotic cardiovascular disease,1,1,0.7659565615378214
+artery disease,renal artery disease,1,1,0.874749498997996
+artery disease,ischemia,1,1,0.7216035634743876
+artery disease,coronary artery disease,1,1,0.8660522931847405
+artery disease,peripheral vascular disease,1,1,0.7216035634743876
+artery disease,cerebral arterial disease,1,1,0.60840108401084
+artery disease,aortic aneurysm,1,1,0.7727639977377394
+artery disease,Shwartzman phenomenon,1,1,0.6249464209172738
+artery disease,pulmonary venoocclusive disease,1,1,0.6900053664644756
+artery disease,myocardial infarction,1,1,0.7659565615378214
+artery disease,inferior myocardial infarction,1,1,0.6900053664644756
+artery disease,pulmonary hypertension,1,1,0.7659565615378214
+artery disease,abdominal aortic aneurysm,1,1,0.6970985015810465
+artery disease,vasculitis,1,1,0.7216035634743876
+artery disease,acute myocardial infarction,1,1,0.6900053664644756
+artery disease,pulmonary embolism,1,1,0.6406581377847712
+peripheral artery disease,artery disease,1,1,0.8660522931847405
+peripheral artery disease,thrombosis,1,1,0.6249464209172738
+peripheral artery disease,nonobstructive coronary artery disease,1,1,0.6487918439431646
+peripheral artery disease,hypertension,1,1,0.7418422139611731
+peripheral artery disease,vascular disease,1,1,0.7469635627530364
+peripheral artery disease,arteriosclerotic cardiovascular disease,1,1,0.6487918439431646
+peripheral artery disease,renal artery disease,1,1,0.7580332946186605
+peripheral artery disease,ischemia,1,1,0.6249464209172738
+peripheral artery disease,coronary artery disease,1,1,0.7418422139611731
+peripheral artery disease,peripheral vascular disease,1,1,0.6249464209172738
+peripheral artery disease,aortic aneurysm,1,1,0.6586564718732933
+peripheral artery disease,myocardial infarction,1,1,0.6487918439431646
+peripheral artery disease,pulmonary hypertension,1,1,0.6487918439431646
+peripheral artery disease,vasculitis,1,1,0.6249464209172738
+sleep apnea,sleep disorder,1,1,0.8145400593471809
+glomerulosclerosis,interstitial nephritis,1,1,0.6487918439431646
+glomerulosclerosis,nephritis,1,1,0.7659565615378214
+glomerulosclerosis,glomerulonephritis,1,1,0.8745685156939873
+glomerulosclerosis,kidney disease,1,1,0.6675241998779105
+limb ischemia,artery disease,1,1,0.6249464209172738
+limb ischemia,thrombosis,1,1,0.6249464209172738
+limb ischemia,vascular disease,1,1,0.7469635627530364
+limb ischemia,ischemia,1,1,0.8660522931847405
+limb ischemia,peripheral vascular disease,1,1,0.6249464209172738
+limb ischemia,vasculitis,1,1,0.6249464209172738
+chronic venous insufficiency,vascular disease,1,1,0.6720994237550528
+pulmonary adenocarcinoma in situ,adenocarcinoma in situ,1,1,0.6028864482163928
+pulmonary adenocarcinoma in situ,in situ carcinoma,1,1,0.7289679098005204
+extra-adrenal pheochromocytoma,adrenal carcinoma,1,1,0.640000755408251
+"spondyloepimetaphyseal dysplasia, Li-Shao-Li type",calvarial doughnut lesions with bone fragility,1,1,0.7036706250758051
+"spondyloepimetaphyseal dysplasia, Li-Shao-Li type","osteogenesis imperfecta with opalescent teeth, blue sclerae and wormian bones but without fractures",1,1,0.6317030053034767
+stroke,ischemic stroke,1,1,0.907264526084634
+stroke,vertebral artery occlusion,1,1,0.699951992318771
+stroke,carotid stenosis,1,1,0.7094123371357518
+stroke,intracranial arterial disease,1,1,0.8160141301148072
+stroke,vascular disease,1,1,0.6125046108447069
+stroke,brain ischemia,1,1,0.7600767754318619
+stroke,carotid artery thrombosis,1,1,0.6249464209172739
+stroke,cerebral arterial disease,1,1,0.7113163972286375
+stroke,intracranial thrombosis,1,1,0.7600767754318619
+stroke,intracranial embolism,1,1,0.8160141301148072
+stroke,occlusion precerebral artery,1,1,0.8160141301148072
+stroke,cerebrovascular disease,1,1,0.908918682599825
+stroke,brain disease,1,1,0.6786833855799373
+ischemic stroke,stroke,1,1,0.907264526084634
+ischemic stroke,vertebral artery occlusion,1,1,0.6305948095212509
+ischemic stroke,carotid stenosis,1,1,0.6391808725014977
+ischemic stroke,intracranial arterial disease,1,1,0.7403406730369755
+ischemic stroke,brain ischemia,1,1,0.6892093485827946
+ischemic stroke,cerebral arterial disease,1,1,0.6446844798180784
+ischemic stroke,intracranial thrombosis,1,1,0.6892093485827946
+ischemic stroke,intracranial embolism,1,1,0.7403406730369755
+ischemic stroke,occlusion precerebral artery,1,1,0.7403406730369755
+ischemic stroke,cerebrovascular disease,1,1,0.8347435219460604
+ischemic stroke,brain disease,1,1,0.6305999015401927
+left ventricular failure,cardiomyopathy,1,1,0.6750835499443001
+left ventricular failure,heart conduction disease,1,1,0.6750835499443001
+left ventricular failure,heart disease,1,1,0.7863653627041399
+left ventricular failure,congestive heart failure,1,1,0.8839584106943931
+left ventricular failure,acute pulmonary heart disease,1,1,0.6851838526300641
+left ventricular failure,Cor pulmonale,1,1,0.771981028821598
+left ventricular failure,pulmonary embolism and infarction,1,1,0.6174540589013994
+hypersensitivity reaction disease,sarcoidosis,1,1,0.7372723026623075
+hypersensitivity reaction disease,immune system disease,1,1,0.8239436619718311
+hypersensitivity reaction disease,autoimmune disease,1,1,0.6753246753246753
+hypersensitivity reaction disease,lymphatic system disease,1,1,0.6835443037974683
+hypersensitivity reaction disease,hypersensitivity vasculitis,1,1,0.7372723026623075
+lymphoma,non-Hodgkin lymphoma,1,1,0.9360809981591328
+lymphoma,nodal marginal zone lymphoma,1,1,0.8064723208216902
+lymphoma,N1 diffuse large B-cell lymphoma,1,1,0.7733259566270385
+lymphoma,intravascular large B-cell lymphoma,1,1,0.8064723208216902
+lymphoma,leukemia,1,1,0.6571087216248506
+lymphoma,hematologic cancer,1,1,0.7330558858501783
+lymphoma,thymoma,1,1,0.6081563615861681
+lymphoma,bone marrow cancer,1,1,0.6308871851040526
+lymphoma,chest wall lymphoma,1,1,0.8599118133382327
+lymphoma,mediastinal malignant lymphoma,1,1,0.8322422258592471
+lymphoma,B-cell lymphoma,1,1,0.8905429071803853
+lymphoma,reticulosarcoma,1,1,0.759669125866309
+lymphoma,Hodgkin's lymphoma,1,1,0.9360809981591328
+non-Hodgkin lymphoma,lymphoma,1,1,0.9360809981591328
+non-Hodgkin lymphoma,nodal marginal zone lymphoma,1,1,0.8331787273888808
+non-Hodgkin lymphoma,N1 diffuse large B-cell lymphoma,1,1,0.7921552051997024
+non-Hodgkin lymphoma,intravascular large B-cell lymphoma,1,1,0.8331787273888808
+non-Hodgkin lymphoma,leukemia,1,1,0.6182000501378793
+non-Hodgkin lymphoma,hematologic cancer,1,1,0.6980543776502869
+non-Hodgkin lymphoma,chest wall lymphoma,1,1,0.795121021536116
+non-Hodgkin lymphoma,mediastinal malignant lymphoma,1,1,0.7671129549311712
+non-Hodgkin lymphoma,B-cell lymphoma,1,1,0.9367792838357272
+non-Hodgkin lymphoma,reticulosarcoma,1,1,0.7112462006079027
+non-Hodgkin lymphoma,Hodgkin's lymphoma,1,1,0.866822927764756
+finger agnosia,pain agnosia,1,1,0.7469266775724398
+pain agnosia,finger agnosia,1,1,0.7469266775724398
+colitis,inflammatory bowel disease,1,1,0.7855508959207014
+colitis,functional diarrhea,1,1,0.6819338422391859
+atrial fibrillation,cardiomyopathy,1,1,0.6750835499443001
+atrial fibrillation,atrioventricular block,1,1,0.771981028821598
+atrial fibrillation,second-degree atrioventricular block,1,1,0.6851838526300641
+atrial fibrillation,heart conduction disease,1,1,0.8839584106943931
+atrial fibrillation,heart disease,1,1,0.7863653627041399
+atrial fibrillation,congestive heart failure,1,1,0.6750835499443001
+idiopathic scoliosis,bone deterioration disease,1,1,0.6302945262955169
+renal-hepatic-pancreatic dysplasia,physical disorder,1,1,0.7641509433962265
+ptosis,isolated microphthalmia,1,1,0.6586564718732933
+ptosis,deprivation amblyopia,1,1,0.6586564718732933
+ptosis,open-angle glaucoma,1,1,0.6586564718732933
+ptosis,abnormal pupillary function,1,1,0.6639010524698472
+ptosis,traumatic glaucoma,1,1,0.6586564718732933
+ptosis,glaucoma,1,1,0.7500999600159937
+ptosis,iris disease,1,1,0.670234416220698
+ptosis,stenosis of lacrimal sac,1,1,0.6639010524698472
+paroxysmal nocturnal hemoglobinuria,kidney disease,1,1,0.6675241998779105
+paroxysmal nocturnal hemoglobinuria,proteinuria,1,1,0.7659565615378214
+anal fistula,inflammatory bowel disease,1,1,0.6249464209172738
+anal fistula,protein-losing enteropathy,1,1,0.6249464209172738
+anal fistula,intestinal perforation,1,1,0.6249464209172738
+anal fistula,chronic intestinal vascular insufficiency,1,1,0.6249464209172738
+anal fistula,bowel dysfunction,1,1,0.6249464209172738
+thrombosis,artery disease,1,1,0.7216035634743876
+thrombosis,peripheral artery disease,1,1,0.6249464209172738
+thrombosis,limb ischemia,1,1,0.6249464209172738
+thrombosis,Raynaud disease,1,1,0.6249464209172738
+thrombosis,hypertension,1,1,0.6249464209172738
+thrombosis,portal vein thrombosis,1,1,0.6130615888128532
+thrombosis,vascular disease,1,1,0.8536299765807963
+thrombosis,renal artery disease,1,1,0.6492985971943889
+thrombosis,ischemia,1,1,0.7216035634743876
+thrombosis,coronary artery disease,1,1,0.6249464209172738
+thrombosis,peripheral vascular disease,1,1,0.7216035634743876
+thrombosis,Shwartzman phenomenon,1,1,0.6249464209172738
+thrombosis,intracranial thrombosis,1,1,0.6579290133507001
+thrombosis,vasculitis,1,1,0.7216035634743876
+arrhythmogenic biventricular cardiomyopathy,cardiomyopathy,1,1,0.794061653364575
+arrhythmogenic biventricular cardiomyopathy,heart conduction disease,1,1,0.6064289375411877
+arrhythmogenic biventricular cardiomyopathy,heart disease,1,1,0.714569139776896
+arrhythmogenic biventricular cardiomyopathy,congestive heart failure,1,1,0.6064289375411877
+arrhythmogenic biventricular cardiomyopathy,myocarditis,1,1,0.6173209061840942
+bone deterioration disease,idiopathic scoliosis,1,1,0.6302945262955169
+bone deterioration disease,ischemic bone disease,1,1,0.6586564718732933
+bone deterioration disease,connective tissue disease,1,1,0.6720994237550528
+ischemic bone disease,bone deterioration disease,1,1,0.6586564718732933
+ischemic bone disease,osteonecrosis,1,1,0.8780915970976048
+ischemic bone disease,endocrine exophthalmos,1,1,0.6639010524698472
+ischemic bone disease,chronic orbital inflammation,1,1,0.6639010524698472
+ischemic bone disease,musculoskeletal system disease,1,1,0.6303926320891904
+ischemic bone disease,connective tissue disease,1,1,0.7514361467079099
+physical disorder,renal-hepatic-pancreatic dysplasia,1,1,0.7641509433962265
+"myeloid and lymphoid neoplasms with eosinophilia and abnormalities of PDGFRA, PDGFRB, and FGFR1",myeloid and lymphoid neoplasms associated with PDGFRA rearrangement,1,1,0.9144988125595088
+"myeloid and lymphoid neoplasms with eosinophilia and abnormalities of PDGFRA, PDGFRB, and FGFR1",leukemia,1,1,0.6470823569754817
+"myeloid and lymphoid neoplasms with eosinophilia and abnormalities of PDGFRA, PDGFRB, and FGFR1",essential thrombocythemia,1,1,0.7605966751666249
+"myeloid and lymphoid neoplasms with eosinophilia and abnormalities of PDGFRA, PDGFRB, and FGFR1",hematologic cancer,1,1,0.7378814570665455
+"myeloid and lymphoid neoplasms with eosinophilia and abnormalities of PDGFRA, PDGFRB, and FGFR1",bone marrow cancer,1,1,0.8550033510336651
+"myeloid and lymphoid neoplasms with eosinophilia and abnormalities of PDGFRA, PDGFRB, and FGFR1",multiple myeloma,1,1,0.7899361405867384
+myeloid and lymphoid neoplasms associated with PDGFRA rearrangement,"myeloid and lymphoid neoplasms with eosinophilia and abnormalities of PDGFRA, PDGFRB, and FGFR1",1,1,0.9144988125595088
+myeloid and lymphoid neoplasms associated with PDGFRA rearrangement,leukemia,1,1,0.6038389545766338
+myeloid and lymphoid neoplasms associated with PDGFRA rearrangement,essential thrombocythemia,1,1,0.6871558714586046
+myeloid and lymphoid neoplasms associated with PDGFRA rearrangement,hematologic cancer,1,1,0.6964329060372431
+myeloid and lymphoid neoplasms associated with PDGFRA rearrangement,bone marrow cancer,1,1,0.8004198381372168
+myeloid and lymphoid neoplasms associated with PDGFRA rearrangement,multiple myeloma,1,1,0.7260454107127204
+normophosphatemic familial tumoral calcinosis,calcium metabolism disease,1,1,0.7538637915040346
+esophageal atresia/tracheoesophageal fistula,mucositis,1,1,0.6753246753246753
+esophageal atresia/tracheoesophageal fistula,diarrhea,1,1,0.6753246753246753
+esophageal atresia/tracheoesophageal fistula,peptic ulcer disease,1,1,0.6753246753246753
+esophageal atresia/tracheoesophageal fistula,gastroesophageal reflux disease,1,1,0.6753246753246753
+hepatic veno-occlusive disease,portal vein thrombosis,1,1,0.7142494284988571
+hepatic veno-occlusive disease,vascular disease,1,1,0.6125046108447069
+hepatic veno-occlusive disease,liver disease,1,1,0.6786833855799373
+mucositis,esophageal atresia/tracheoesophageal fistula,1,1,0.6753246753246753
+mucositis,diarrhea,1,1,0.6753246753246753
+mucositis,peptic ulcer disease,1,1,0.6753246753246753
+mucositis,gastroesophageal reflux disease,1,1,0.6753246753246753
+chronic neutrophilic leukemia,chronic leukemia,1,1,0.9035553360903648
+chronic neutrophilic leukemia,leukemia,1,1,0.8272526257600885
+chronic neutrophilic leukemia,hematologic cancer,1,1,0.7672608509858984
+chronic neutrophilic leukemia,bone marrow cancer,1,1,0.6356086023871075
+chronic neutrophilic leukemia,acute myeloid leukemia,1,1,0.6514221974344674
+nodal marginal zone lymphoma,lymphoma,1,1,0.8064723208216902
+nodal marginal zone lymphoma,non-Hodgkin lymphoma,1,1,0.8331787273888808
+nodal marginal zone lymphoma,N1 diffuse large B-cell lymphoma,1,1,0.693014729732485
+nodal marginal zone lymphoma,intravascular large B-cell lymphoma,1,1,0.7471069029699766
+nodal marginal zone lymphoma,hematologic cancer,1,1,0.6147896963023187
+nodal marginal zone lymphoma,chest wall lymphoma,1,1,0.6712041149244062
+nodal marginal zone lymphoma,mediastinal malignant lymphoma,1,1,0.643874643874644
+nodal marginal zone lymphoma,B-cell lymphoma,1,1,0.883317153311926
+nodal marginal zone lymphoma,reticulosarcoma,1,1,0.6087860670652456
+nodal marginal zone lymphoma,Hodgkin's lymphoma,1,1,0.7298042338692036
+Coronavirus infectious disease,COVID-19,1,1,0.8536299765807963
+Coronavirus infectious disease,measles,1,1,0.6835443037974683
+Coronavirus infectious disease,milker's nodule,1,1,0.6835443037974683
+Coronavirus infectious disease,viral infectious disease,1,1,0.8287671232876712
+COVID-19,Coronavirus infectious disease,1,1,0.8536299765807963
+COVID-19,viral infectious disease,1,1,0.7093023255813954
+isolated microphthalmia,ptosis,1,1,0.6586564718732933
+isolated microphthalmia,glaucoma,1,1,0.6586564718732933
+medulloblastoma non-WNT/non-SHH,brain germinoma,1,1,0.665304180339814
+medulloblastoma non-WNT/non-SHH,C-P angle neurinoma,1,1,0.66357893915801
+calvarial doughnut lesions with bone fragility,"spondyloepimetaphyseal dysplasia, Li-Shao-Li type",1,1,0.7036706250758051
+calvarial doughnut lesions with bone fragility,"osteogenesis imperfecta with opalescent teeth, blue sclerae and wormian bones but without fractures",1,1,0.7423226885608942
+urinary tract infection,urinary system disease,1,1,0.6573033707865168
+T2-high asthma,bronchial disease,1,1,0.699249009986905
+T2-high asthma,asthma,1,1,0.7847565548803822
+subjective cognitive decline,mild cognitive impairment,1,1,0.6612466124661247
+subjective cognitive decline,dementia,1,1,0.6612466124661247
+subjective cognitive decline,cognitive disorder,1,1,0.8145400593471809
+subjective cognitive decline,anxiety disorder,1,1,0.6612466124661247
+subjective cognitive decline,psychotic disorder,1,1,0.6612466124661247
+subjective cognitive decline,mood disorder,1,1,0.6612466124661247
+mild cognitive impairment,subjective cognitive decline,1,1,0.6612466124661247
+mild cognitive impairment,dementia,1,1,0.6612466124661247
+mild cognitive impairment,cognitive disorder,1,1,0.8145400593471809
+mild cognitive impairment,anxiety disorder,1,1,0.6612466124661247
+mild cognitive impairment,psychotic disorder,1,1,0.6612466124661247
+mild cognitive impairment,mood disorder,1,1,0.6612466124661247
+nonobstructive coronary artery disease,artery disease,1,1,0.7659565615378214
+nonobstructive coronary artery disease,peripheral artery disease,1,1,0.6487918439431646
+nonobstructive coronary artery disease,hypertension,1,1,0.6487918439431646
+nonobstructive coronary artery disease,vascular disease,1,1,0.6675241998779105
+nonobstructive coronary artery disease,renal artery disease,1,1,0.6702344162206981
+nonobstructive coronary artery disease,coronary artery disease,1,1,0.8745685156939873
+nonobstructive coronary artery disease,myocardial infarction,1,1,0.7560309157623546
+nonobstructive coronary artery disease,inferior myocardial infarction,1,1,0.665790720058668
+nonobstructive coronary artery disease,acute myocardial infarction,1,1,0.665790720058668
+N1 diffuse large B-cell lymphoma,lymphoma,1,1,0.7733259566270385
+N1 diffuse large B-cell lymphoma,non-Hodgkin lymphoma,1,1,0.7921552051997024
+N1 diffuse large B-cell lymphoma,nodal marginal zone lymphoma,1,1,0.693014729732485
+N1 diffuse large B-cell lymphoma,intravascular large B-cell lymphoma,1,1,0.7972738781252259
+N1 diffuse large B-cell lymphoma,chest wall lymphoma,1,1,0.6368485909004233
+N1 diffuse large B-cell lymphoma,mediastinal malignant lymphoma,1,1,0.6091837268303196
+N1 diffuse large B-cell lymphoma,B-cell lymphoma,1,1,0.8373648368486702
+N1 diffuse large B-cell lymphoma,Hodgkin's lymphoma,1,1,0.6929079075199938
+acute myeloid leukemia with minimal differentiation,chronic leukemia,1,1,0.6671785409107234
+acute myeloid leukemia with minimal differentiation,leukemia,1,1,0.7650926074258463
+acute myeloid leukemia with minimal differentiation,hematologic cancer,1,1,0.7175409374272803
+acute myeloid leukemia with minimal differentiation,acute myeloid leukemia,1,1,0.902864638376705
+traumatic brain injury,La Crosse encephalitis,1,1,0.6357167062012878
+traumatic brain injury,Huntington's disease-like 1,1,1,0.6165370621388314
+traumatic brain injury,complex cortical dysplasia with other brain malformations,1,1,0.7500999600159937
+traumatic brain injury,Eastern equine encephalitis,1,1,0.6357167062012878
+traumatic brain injury,hemiplegia,1,1,0.6312684365781711
+traumatic brain injury,subdural empyema,1,1,0.6312684365781711
+traumatic brain injury,pseudotumor cerebri,1,1,0.6586564718732933
+traumatic brain injury,epilepsy,1,1,0.7500999600159937
+traumatic brain injury,cerebral palsy,1,1,0.7500999600159937
+traumatic brain injury,demyelinating disease,1,1,0.6312684365781711
+traumatic brain injury,brain edema,1,1,0.7500999600159937
+traumatic brain injury,movement disease,1,1,0.7500999600159937
+traumatic brain injury,cerebrovascular disease,1,1,0.639624539054643
+traumatic brain injury,brain disease,1,1,0.8710276516714817
+traumatic brain injury,hypertensive encephalopathy,1,1,0.6586564718732933
+traumatic brain injury,encephalitis,1,1,0.7500999600159937
+intravascular large B-cell lymphoma,lymphoma,1,1,0.8064723208216902
+intravascular large B-cell lymphoma,non-Hodgkin lymphoma,1,1,0.8331787273888808
+intravascular large B-cell lymphoma,nodal marginal zone lymphoma,1,1,0.7471069029699766
+intravascular large B-cell lymphoma,N1 diffuse large B-cell lymphoma,1,1,0.7972738781252259
+intravascular large B-cell lymphoma,hematologic cancer,1,1,0.6147896963023187
+intravascular large B-cell lymphoma,chest wall lymphoma,1,1,0.6712041149244062
+intravascular large B-cell lymphoma,mediastinal malignant lymphoma,1,1,0.643874643874644
+intravascular large B-cell lymphoma,B-cell lymphoma,1,1,0.883317153311926
+intravascular large B-cell lymphoma,reticulosarcoma,1,1,0.6087860670652456
+intravascular large B-cell lymphoma,Hodgkin's lymphoma,1,1,0.7298042338692036
+thyroid gland mixed medullary and follicular cell-derived carcinoma,adrenal carcinoma,1,1,0.6334884934963241
+thyroid gland mixed medullary and follicular cell-derived carcinoma,papillary thyroid carcinoma,1,1,0.6842634414746576
+Huntington's disease-like 1,La Crosse encephalitis,1,1,0.6542079055757054
+Huntington's disease-like 1,traumatic brain injury,1,1,0.6165370621388314
+Huntington's disease-like 1,complex cortical dysplasia with other brain malformations,1,1,0.6165370621388314
+Huntington's disease-like 1,Eastern equine encephalitis,1,1,0.6542079055757054
+Huntington's disease-like 1,epilepsy,1,1,0.6165370621388314
+Huntington's disease-like 1,cerebral palsy,1,1,0.6165370621388314
+Huntington's disease-like 1,brain edema,1,1,0.6165370621388314
+Huntington's disease-like 1,movement disease,1,1,0.6165370621388314
+Huntington's disease-like 1,brain disease,1,1,0.7202245541938799
+Huntington's disease-like 1,encephalitis,1,1,0.6165370621388314
+complex cortical dysplasia with other brain malformations,La Crosse encephalitis,1,1,0.6357167062012878
+complex cortical dysplasia with other brain malformations,traumatic brain injury,1,1,0.7500999600159937
+complex cortical dysplasia with other brain malformations,Huntington's disease-like 1,1,1,0.6165370621388314
+complex cortical dysplasia with other brain malformations,Eastern equine encephalitis,1,1,0.6357167062012878
+complex cortical dysplasia with other brain malformations,hemiplegia,1,1,0.6312684365781711
+complex cortical dysplasia with other brain malformations,subdural empyema,1,1,0.6312684365781711
+complex cortical dysplasia with other brain malformations,pseudotumor cerebri,1,1,0.6586564718732933
+complex cortical dysplasia with other brain malformations,epilepsy,1,1,0.7500999600159937
+complex cortical dysplasia with other brain malformations,cerebral palsy,1,1,0.7500999600159937
+complex cortical dysplasia with other brain malformations,demyelinating disease,1,1,0.6312684365781711
+complex cortical dysplasia with other brain malformations,brain edema,1,1,0.7500999600159937
+complex cortical dysplasia with other brain malformations,movement disease,1,1,0.7500999600159937
+complex cortical dysplasia with other brain malformations,cerebrovascular disease,1,1,0.639624539054643
+complex cortical dysplasia with other brain malformations,brain disease,1,1,0.8710276516714817
+complex cortical dysplasia with other brain malformations,hypertensive encephalopathy,1,1,0.6586564718732933
+complex cortical dysplasia with other brain malformations,encephalitis,1,1,0.7500999600159937
+"osteogenesis imperfecta with opalescent teeth, blue sclerae and wormian bones but without fractures","spondyloepimetaphyseal dysplasia, Li-Shao-Li type",1,1,0.6317030053034767
+"osteogenesis imperfecta with opalescent teeth, blue sclerae and wormian bones but without fractures",calvarial doughnut lesions with bone fragility,1,1,0.7423226885608942
+epidermal nevus,erythema multiforme,1,1,0.6011131725417439
+epidermal nevus,dermatitis,1,1,0.7216035634743876
+epidermal nevus,mediastinal lipomatosis,1,1,0.6249464209172738
+epidermal nevus,acneiform dermatitis,1,1,0.6249464209172738
+epidermal nevus,acne,1,1,0.6312684365781711
+epidermal nevus,lichen planus,1,1,0.6249464209172738
+spermatogenic failure,infertility due to extratesticular cause,1,1,0.7510951812027084
+spermatogenic failure,sexual dysfunction,1,1,0.6388774246801486
+multisystem proteinopathy,Huntington's disease,1,1,0.6586564718732933
+multisystem proteinopathy,plexopathy,1,1,0.6586564718732933
+multisystem proteinopathy,primary cerebellar degeneration,1,1,0.6586564718732933
+sensorineural hearing loss,inner ear disease,1,1,0.8822265772216779
+sensorineural hearing loss,vestibular disease,1,1,0.7732056027287902
+pulmonary interstitial emphysema,obstructive lung disease,1,1,0.7126172521611182
+pulmonary interstitial emphysema,chronic obstructive pulmonary disease,1,1,0.7928677269875124
+pulmonary interstitial emphysema,lung disease,1,1,0.6417831858269625
+pulmonary interstitial emphysema,pulmonary emphysema,1,1,0.8870036477030462
+small intestine cancer,rectum malignant melanoma,1,1,0.6207667668352548
+small intestine cancer,colon cancer,1,1,0.7095190073223132
+small intestine cancer,rectosigmoid cancer,1,1,0.6152639616637363
+small intestine cancer,jejunal somatostatinoma,1,1,0.85844498354187
+small intestine cancer,anal carcinoma,1,1,0.6085735881654248
+small intestine cancer,esophageal cancer,1,1,0.6722730645560228
+small intestine cancer,colorectal cancer,1,1,0.7784473590925204
+osteonecrosis,ischemic bone disease,1,1,0.8780915970976048
+osteonecrosis,connective tissue disease,1,1,0.6720994237550528
+dermatomyositis,inclusion body myositis,1,1,0.6742542695417137
+dermatomyositis,myositis,1,1,0.7649361859547446
+heart conduction disease,cardiomyopathy,1,1,0.7637051039697543
+heart conduction disease,atrioventricular block,1,1,0.8839584106943931
+heart conduction disease,second-degree atrioventricular block,1,1,0.794061653364575
+heart conduction disease,left ventricular failure,1,1,0.6750835499443001
+heart conduction disease,atrial fibrillation,1,1,0.8839584106943931
+heart conduction disease,arrhythmogenic biventricular cardiomyopathy,1,1,0.6064289375411877
+heart conduction disease,heart disease,1,1,0.879110251450677
+heart conduction disease,pulmonary valve insufficiency,1,1,0.6165370621388315
+heart conduction disease,congestive heart failure,1,1,0.7637051039697543
+heart conduction disease,myocarditis,1,1,0.6232564659704214
+heart conduction disease,acute pulmonary heart disease,1,1,0.6064289375411877
+heart conduction disease,Cor pulmonale,1,1,0.6750835499443001
+prostate cancer,prostate adenocarcinoma,1,1,0.7670708740255715
+Raynaud disease,artery disease,1,1,0.6249464209172738
+Raynaud disease,thrombosis,1,1,0.6249464209172738
+Raynaud disease,vascular disease,1,1,0.7469635627530364
+Raynaud disease,ischemia,1,1,0.6249464209172738
+Raynaud disease,peripheral vascular disease,1,1,0.8660522931847405
+Raynaud disease,vasculitis,1,1,0.6249464209172738
+pneumoconiosis,ventilation pneumonitis,1,1,0.677326644719653
+pneumoconiosis,pulmonary systemic sclerosis,1,1,0.6122107902021204
+pneumoconiosis,malt worker's lung,1,1,0.677326644719653
+pneumoconiosis,interstitial lung disease,1,1,0.9112468048849756
+pneumoconiosis,pulmonary fibrosis,1,1,0.820247339660627
+pneumoconiosis,connective tissue disease,1,1,0.618138858596874
+pneumoconiosis,lung disease,1,1,0.6830985915492958
+chronic leukemia,chronic neutrophilic leukemia,1,1,0.9035553360903648
+chronic leukemia,acute myeloid leukemia with minimal differentiation,1,1,0.6671785409107234
+chronic leukemia,leukemia,1,1,0.9044050168247167
+chronic leukemia,hematologic cancer,1,1,0.8289753724536334
+chronic leukemia,bone marrow cancer,1,1,0.6916963551657991
+chronic leukemia,acute myeloid leukemia,1,1,0.7299549410530215
+deprivation amblyopia,ptosis,1,1,0.6586564718732933
+deprivation amblyopia,glaucoma,1,1,0.6586564718732933
+acute infection of pinna,inner ear disease,1,1,0.6011605301040324
+early yaws,typhus,1,1,0.6130030959752323
+early yaws,Mycobacterium avium complex disease,1,1,0.6130030959752323
+early yaws,tuberculosis,1,1,0.6130030959752323
+calcium metabolism disease,hypophosphatemia,1,1,0.6028864482163928
+calcium metabolism disease,normophosphatemic familial tumoral calcinosis,1,1,0.7538637915040346
+calcium metabolism disease,hypokalemia,1,1,0.7025226082817706
+protein-losing enteropathy,inflammatory bowel disease,1,1,0.7216035634743876
+protein-losing enteropathy,anal fistula,1,1,0.6249464209172738
+protein-losing enteropathy,functional diarrhea,1,1,0.6312684365781711
+protein-losing enteropathy,intestinal perforation,1,1,0.7216035634743876
+protein-losing enteropathy,duodenal obstruction,1,1,0.6312684365781711
+protein-losing enteropathy,duodenogastric reflux,1,1,0.6312684365781711
+protein-losing enteropathy,chronic intestinal vascular insufficiency,1,1,0.7216035634743876
+protein-losing enteropathy,bowel dysfunction,1,1,0.7216035634743876
+interstitial nephritis,glomerulosclerosis,1,1,0.6487918439431646
+interstitial nephritis,nephritis,1,1,0.8660522931847405
+interstitial nephritis,urinary system disease,1,1,0.6230845279288184
+interstitial nephritis,glomerulonephritis,1,1,0.7418422139611731
+interstitial nephritis,kidney disease,1,1,0.7469635627530364
+interstitial nephritis,proteinuria,1,1,0.6249464209172738
+Alzheimer's disease,Huntington's disease,1,1,0.6487918439431646
+Alzheimer's disease,plexopathy,1,1,0.6487918439431646
+Alzheimer's disease,primary cerebellar degeneration,1,1,0.6487918439431646
+open-angle glaucoma,ptosis,1,1,0.6586564718732933
+open-angle glaucoma,traumatic glaucoma,1,1,0.7619773021555336
+open-angle glaucoma,glaucoma,1,1,0.8780915970976048
+hypertension,artery disease,1,1,0.8660522931847405
+hypertension,peripheral artery disease,1,1,0.7418422139611731
+hypertension,thrombosis,1,1,0.6249464209172738
+hypertension,nonobstructive coronary artery disease,1,1,0.6487918439431646
+hypertension,vascular disease,1,1,0.7469635627530364
+hypertension,arteriosclerotic cardiovascular disease,1,1,0.6487918439431646
+hypertension,renal artery disease,1,1,0.7580332946186605
+hypertension,ischemia,1,1,0.6249464209172738
+hypertension,coronary artery disease,1,1,0.7418422139611731
+hypertension,peripheral vascular disease,1,1,0.6249464209172738
+hypertension,aortic aneurysm,1,1,0.6586564718732933
+hypertension,pulmonary venoocclusive disease,1,1,0.7792143563656918
+hypertension,myocardial infarction,1,1,0.6487918439431646
+hypertension,pulmonary hypertension,1,1,0.8745685156939873
+hypertension,vasculitis,1,1,0.6249464209172738
+Eastern equine encephalitis,La Crosse encephalitis,1,1,0.8162305204351662
+Eastern equine encephalitis,traumatic brain injury,1,1,0.6357167062012878
+Eastern equine encephalitis,Huntington's disease-like 1,1,1,0.6542079055757054
+Eastern equine encephalitis,complex cortical dysplasia with other brain malformations,1,1,0.6357167062012878
+Eastern equine encephalitis,epilepsy,1,1,0.6357167062012878
+Eastern equine encephalitis,cerebral palsy,1,1,0.6357167062012878
+Eastern equine encephalitis,brain edema,1,1,0.6357167062012878
+Eastern equine encephalitis,movement disease,1,1,0.6357167062012878
+Eastern equine encephalitis,brain disease,1,1,0.734597981204316
+Eastern equine encephalitis,encephalitis,1,1,0.6357167062012878
+attention deficit hyperactivity disorder,alcohol-related birth defects,1,1,0.6028864482163928
+attention deficit hyperactivity disorder,learning disability,1,1,0.7025226082817706
+nephritis,glomerulosclerosis,1,1,0.7659565615378214
+nephritis,interstitial nephritis,1,1,0.8660522931847405
+nephritis,urinary system disease,1,1,0.7093023255813954
+nephritis,glomerulonephritis,1,1,0.8660522931847405
+nephritis,acute kidney failure,1,1,0.6249464209172738
+nephritis,kidney disease,1,1,0.8536299765807963
+nephritis,proteinuria,1,1,0.7216035634743876
+nephritis,chronic kidney disease,1,1,0.6249464209172738
+hemiplegia,traumatic brain injury,1,1,0.6312684365781711
+hemiplegia,complex cortical dysplasia with other brain malformations,1,1,0.6312684365781711
+hemiplegia,subdural empyema,1,1,0.7216035634743876
+hemiplegia,Huntington's disease,1,1,0.6249464209172738
+hemiplegia,epilepsy,1,1,0.6312684365781711
+hemiplegia,cerebral palsy,1,1,0.6312684365781711
+hemiplegia,vascular myelopathy,1,1,0.6312684365781711
+hemiplegia,demyelinating disease,1,1,0.7216035634743876
+hemiplegia,myelitis,1,1,0.6312684365781711
+hemiplegia,plexopathy,1,1,0.6249464209172738
+hemiplegia,brain edema,1,1,0.6312684365781711
+hemiplegia,movement disease,1,1,0.6312684365781711
+hemiplegia,central pontine myelinolysis,1,1,0.6249464209172738
+hemiplegia,primary cerebellar degeneration,1,1,0.6249464209172738
+hemiplegia,brain disease,1,1,0.7276688453159041
+hemiplegia,encephalitis,1,1,0.6312684365781711
+urinary bladder cancer,kidney hemangiopericytoma,1,1,0.6648115355426258
+urinary bladder cancer,bladder urothelial carcinoma,1,1,0.742951725347481
+esophageal carcinoma,esophagus adenocarcinoma,1,1,0.8877111031261227
+esophageal carcinoma,esophageal cancer,1,1,0.8302915646561319
+esophageal carcinoma,esophagus leiomyosarcoma,1,1,0.7173273029824636
+esophageal carcinoma,nasopharynx carcinoma,1,1,0.6132452633408656
+respiratory failure,bronchopulmonary dysplasia,1,1,0.7500999600159937
+respiratory failure,bronchial disease,1,1,0.6388774246801486
+respiratory failure,pulmonary alveolar proteinosis,1,1,0.7500999600159937
+respiratory failure,respiratory system disease,1,1,0.6303926320891904
+respiratory failure,obstructive lung disease,1,1,0.7500999600159937
+respiratory failure,idiopathic interstitial pneumonia,1,1,0.6586564718732933
+respiratory failure,bronchiolitis,1,1,0.6819338422391859
+respiratory failure,interstitial lung disease,1,1,0.6455654467523905
+respiratory failure,chronic obstructive pulmonary disease,1,1,0.6586564718732933
+respiratory failure,aspiration pneumonitis,1,1,0.6586564718732933
+respiratory failure,pulmonary immaturity,1,1,0.7500999600159937
+respiratory failure,pneumonia,1,1,0.7500999600159937
+respiratory failure,lung disease,1,1,0.8710276516714817
+respiratory failure,pulmonary eosinophilia,1,1,0.6030215364834459
+opioid abuse,alcohol use disorder,1,1,0.7025226082817706
+opioid abuse,substance abuse,1,1,0.841611758743031
+opioid abuse,substance-related disorder,1,1,0.6897407611693327
+opioid abuse,phencyclidine abuse,1,1,0.7025226082817706
+DIC in newborn,disseminated intravascular coagulation,1,1,0.8715999671295916
+DIC in newborn,thrombophilia,1,1,0.7593891693044742
+disseminated intravascular coagulation,DIC in newborn,1,1,0.8715999671295916
+disseminated intravascular coagulation,thrombophilia,1,1,0.8617868199911544
+typhus,early yaws,1,1,0.6130030959752323
+typhus,Mycobacterium avium complex disease,1,1,0.7113163972286375
+typhus,tuberculosis,1,1,0.7113163972286375
+typhus,multidrug-resistant tuberculosis,1,1,0.6130030959752323
+typhus,secondary syphilis,1,1,0.6130030959752323
+ventilation pneumonitis,pneumoconiosis,1,1,0.677326644719653
+ventilation pneumonitis,malt worker's lung,1,1,0.8503997319163196
+ventilation pneumonitis,interstitial lung disease,1,1,0.7617141085912074
+ventilation pneumonitis,pulmonary fibrosis,1,1,0.677326644719653
+pituitary apoplexy,necrosis of pituitary,1,1,0.7659565615378214
+vertebral artery occlusion,artery disease,1,1,0.6366988088485535
+vertebral artery occlusion,stroke,1,1,0.699951992318771
+vertebral artery occlusion,ischemic stroke,1,1,0.6305948095212509
+vertebral artery occlusion,carotid stenosis,1,1,0.7223456241670368
+vertebral artery occlusion,intracranial arterial disease,1,1,0.699951992318771
+vertebral artery occlusion,brain ischemia,1,1,0.6561984297644647
+vertebral artery occlusion,carotid artery thrombosis,1,1,0.6429983742695198
+vertebral artery occlusion,cerebral arterial disease,1,1,0.7352567421283005
+vertebral artery occlusion,intracranial thrombosis,1,1,0.6561984297644647
+vertebral artery occlusion,intracranial embolism,1,1,0.699951992318771
+vertebral artery occlusion,occlusion precerebral artery,1,1,0.8499759961593855
+vertebral artery occlusion,cerebrovascular disease,1,1,0.7852460749590318
+sarcoidosis,hypersensitivity reaction disease,1,1,0.7372723026623075
+sarcoidosis,immune system disease,1,1,0.6170266197890507
+functional diarrhea,inflammatory bowel disease,1,1,0.6312684365781711
+functional diarrhea,colitis,1,1,0.6819338422391859
+functional diarrhea,protein-losing enteropathy,1,1,0.6312684365781711
+functional diarrhea,intestinal perforation,1,1,0.6312684365781711
+functional diarrhea,chronic intestinal vascular insufficiency,1,1,0.6312684365781711
+functional diarrhea,bowel dysfunction,1,1,0.6312684365781711
+subdural empyema,traumatic brain injury,1,1,0.6312684365781711
+subdural empyema,complex cortical dysplasia with other brain malformations,1,1,0.6312684365781711
+subdural empyema,hemiplegia,1,1,0.7216035634743876
+subdural empyema,Huntington's disease,1,1,0.6249464209172738
+subdural empyema,epilepsy,1,1,0.6312684365781711
+subdural empyema,cerebral palsy,1,1,0.6312684365781711
+subdural empyema,vascular myelopathy,1,1,0.6312684365781711
+subdural empyema,demyelinating disease,1,1,0.7216035634743876
+subdural empyema,myelitis,1,1,0.6312684365781711
+subdural empyema,plexopathy,1,1,0.6249464209172738
+subdural empyema,brain edema,1,1,0.6312684365781711
+subdural empyema,movement disease,1,1,0.6312684365781711
+subdural empyema,central pontine myelinolysis,1,1,0.6249464209172738
+subdural empyema,primary cerebellar degeneration,1,1,0.6249464209172738
+subdural empyema,brain disease,1,1,0.7276688453159041
+subdural empyema,encephalitis,1,1,0.6312684365781711
+heart disease,cardiomyopathy,1,1,0.879110251450677
+heart disease,atrioventricular block,1,1,0.7863653627041399
+heart disease,second-degree atrioventricular block,1,1,0.714569139776896
+heart disease,left ventricular failure,1,1,0.7863653627041399
+heart disease,atrial fibrillation,1,1,0.7863653627041399
+heart disease,arrhythmogenic biventricular cardiomyopathy,1,1,0.714569139776896
+heart disease,heart conduction disease,1,1,0.879110251450677
+heart disease,heart cancer,1,1,0.6084337349397589
+heart disease,pericardial effusion,1,1,0.6615087040618955
+heart disease,pulmonary valve insufficiency,1,1,0.7220602172486695
+heart disease,vascular disease,1,1,0.6153846153846154
+heart disease,pericarditis,1,1,0.6615087040618955
+heart disease,congestive heart failure,1,1,0.879110251450677
+heart disease,myocarditis,1,1,0.7270351542922603
+heart disease,acute pulmonary heart disease,1,1,0.714569139776896
+heart disease,Cor pulmonale,1,1,0.7863653627041399
+heart disease,pulmonary embolism and infarction,1,1,0.6586013944606458
+pseudotumor cerebri,traumatic brain injury,1,1,0.6586564718732933
+pseudotumor cerebri,complex cortical dysplasia with other brain malformations,1,1,0.6586564718732933
+pseudotumor cerebri,epilepsy,1,1,0.6586564718732933
+pseudotumor cerebri,cerebral palsy,1,1,0.6586564718732933
+pseudotumor cerebri,brain edema,1,1,0.6586564718732933
+pseudotumor cerebri,movement disease,1,1,0.6586564718732933
+pseudotumor cerebri,brain disease,1,1,0.773678281161986
+pseudotumor cerebri,hypertensive encephalopathy,1,1,0.7619773021555336
+pseudotumor cerebri,encephalitis,1,1,0.6586564718732933
+osteoporosis,connective tissue disease,1,1,0.6116312749440076
+cardiac tamponade,pericardial effusion,1,1,0.8839584106943931
+cardiac tamponade,pericarditis,1,1,0.6750835499443001
+abnormal pupillary function,ptosis,1,1,0.6639010524698472
+abnormal pupillary function,glaucoma,1,1,0.6639010524698472
+bronchopulmonary dysplasia,respiratory failure,1,1,0.7500999600159937
+bronchopulmonary dysplasia,bronchial disease,1,1,0.6388774246801486
+bronchopulmonary dysplasia,pulmonary alveolar proteinosis,1,1,0.7500999600159937
+bronchopulmonary dysplasia,respiratory system disease,1,1,0.6303926320891904
+bronchopulmonary dysplasia,obstructive lung disease,1,1,0.7500999600159937
+bronchopulmonary dysplasia,idiopathic interstitial pneumonia,1,1,0.6586564718732933
+bronchopulmonary dysplasia,bronchiolitis,1,1,0.6819338422391859
+bronchopulmonary dysplasia,interstitial lung disease,1,1,0.6455654467523905
+bronchopulmonary dysplasia,chronic obstructive pulmonary disease,1,1,0.6586564718732933
+bronchopulmonary dysplasia,aspiration pneumonitis,1,1,0.6586564718732933
+bronchopulmonary dysplasia,pulmonary immaturity,1,1,0.7500999600159937
+bronchopulmonary dysplasia,pneumonia,1,1,0.7500999600159937
+bronchopulmonary dysplasia,lung disease,1,1,0.8710276516714817
+bronchopulmonary dysplasia,pulmonary eosinophilia,1,1,0.6030215364834459
+portal vein thrombosis,thrombosis,1,1,0.6130615888128532
+portal vein thrombosis,hepatic veno-occlusive disease,1,1,0.7142494284988571
+heart cancer,heart disease,1,1,0.6084337349397589
+heart cancer,cardiovascular cancer,1,1,0.7551390568319226
+heart cancer,thoracic cancer,1,1,0.7551390568319226
+heart cancer,heart leiomyosarcoma,1,1,0.8781781955212892
+bronchial disease,T2-high asthma,1,1,0.699249009986905
+bronchial disease,respiratory failure,1,1,0.6388774246801486
+bronchial disease,bronchopulmonary dysplasia,1,1,0.6388774246801486
+bronchial disease,pulmonary alveolar proteinosis,1,1,0.6388774246801486
+bronchial disease,respiratory system disease,1,1,0.716624685138539
+bronchial disease,pneumothorax,1,1,0.6388774246801486
+bronchial disease,obstructive lung disease,1,1,0.6388774246801486
+bronchial disease,asthma,1,1,0.8710276516714817
+bronchial disease,bronchiolitis,1,1,0.7895622895622895
+bronchial disease,pleural empyema,1,1,0.6388774246801486
+bronchial disease,pulmonary immaturity,1,1,0.6388774246801486
+bronchial disease,pneumonia,1,1,0.6388774246801486
+bronchial disease,bronchitis,1,1,0.8710276516714817
+bronchial disease,lung disease,1,1,0.7334754797441365
+bronchial disease,bronchiectasis,1,1,0.8710276516714817
+splenic sequestration,splenic disease,1,1,0.8710276516714817
+splenic sequestration,splenic infarction,1,1,0.7500999600159937
+splenic sequestration,immune system disease,1,1,0.6303926320891904
+splenic sequestration,lymphatic system disease,1,1,0.7514361467079099
+splenic sequestration,lymph node disease,1,1,0.6388774246801486
+pericardial effusion,heart disease,1,1,0.6615087040618955
+pericardial effusion,cardiac tamponade,1,1,0.8839584106943931
+pericardial effusion,pericarditis,1,1,0.7637051039697543
+head and neck cancer,breast cancer,1,1,0.6208112874779541
+head and neck cancer,neuroendocrine tumor,1,1,0.6388774246801486
+head and neck cancer,cardiovascular cancer,1,1,0.6208112874779541
+head and neck cancer,hematologic cancer,1,1,0.6208112874779541
+head and neck cancer,thoracic cancer,1,1,0.6208112874779541
+head and neck cancer,head and neck squamous cell carcinoma,1,1,0.6327904791731914
+esophagitis,peptic esophagitis,1,1,0.8660522931847405
+esophagitis,Barrett's esophagus,1,1,0.7216035634743876
+morbid obesity,obesity,1,1,0.8691220076055819
+Dieulafoy lesion,stomach diverticulosis,1,1,0.7216035634743876
+pulmonary alveolar proteinosis,respiratory failure,1,1,0.7500999600159937
+pulmonary alveolar proteinosis,bronchopulmonary dysplasia,1,1,0.7500999600159937
+pulmonary alveolar proteinosis,bronchial disease,1,1,0.6388774246801486
+pulmonary alveolar proteinosis,respiratory system disease,1,1,0.6303926320891904
+pulmonary alveolar proteinosis,obstructive lung disease,1,1,0.7500999600159937
+pulmonary alveolar proteinosis,idiopathic interstitial pneumonia,1,1,0.6586564718732933
+pulmonary alveolar proteinosis,bronchiolitis,1,1,0.6819338422391859
+pulmonary alveolar proteinosis,interstitial lung disease,1,1,0.6455654467523905
+pulmonary alveolar proteinosis,chronic obstructive pulmonary disease,1,1,0.6586564718732933
+pulmonary alveolar proteinosis,aspiration pneumonitis,1,1,0.6586564718732933
+pulmonary alveolar proteinosis,pulmonary immaturity,1,1,0.7500999600159937
+pulmonary alveolar proteinosis,pneumonia,1,1,0.7500999600159937
+pulmonary alveolar proteinosis,lung disease,1,1,0.8710276516714817
+pulmonary alveolar proteinosis,pulmonary eosinophilia,1,1,0.6030215364834459
+neutropenia,lymphopenia,1,1,0.6487918439431646
+neutropenia,leukopenia,1,1,0.7659565615378214
+vitiligo,bullous pemphigoid,1,1,0.7196200026388705
+vitiligo,systemic lupus erythematosus,1,1,0.6279128038085693
+endocrine exophthalmos,ischemic bone disease,1,1,0.6639010524698472
+endocrine exophthalmos,chronic orbital inflammation,1,1,0.7690147091433218
+endocrine exophthalmos,connective tissue disease,1,1,0.6776443730447281
+Graves' disease,autoimmune disease,1,1,0.682952182952183
+leukemia,lymphoma,1,1,0.6571087216248506
+leukemia,non-Hodgkin lymphoma,1,1,0.6182000501378793
+leukemia,"myeloid and lymphoid neoplasms with eosinophilia and abnormalities of PDGFRA, PDGFRB, and FGFR1",1,1,0.6470823569754817
+leukemia,myeloid and lymphoid neoplasms associated with PDGFRA rearrangement,1,1,0.6038389545766338
+leukemia,chronic neutrophilic leukemia,1,1,0.8272526257600885
+leukemia,acute myeloid leukemia with minimal differentiation,1,1,0.7650926074258463
+leukemia,chronic leukemia,1,1,0.9044050168247167
+leukemia,essential thrombocythemia,1,1,0.6038389545766338
+leukemia,hematologic cancer,1,1,0.905446293494705
+leukemia,bone marrow cancer,1,1,0.7612551159618008
+leukemia,Hodgkin's lymphoma,1,1,0.6182000501378793
+leukemia,acute myeloid leukemia,1,1,0.8272526257600885
+leukemia,multiple myeloma,1,1,0.6241457858769932
+thyrocalcitonin secretion disease,Riedel's fibrosing thyroiditis,1,1,0.6249464209172738
+thyrocalcitonin secretion disease,postsurgical hypothyroidism,1,1,0.6249464209172738
+thyrocalcitonin secretion disease,hypothyroidism,1,1,0.7216035634743876
+thyrocalcitonin secretion disease,thyroid gland disease,1,1,0.8536299765807963
+thyrocalcitonin secretion disease,thyroiditis,1,1,0.7216035634743876
+thyrocalcitonin secretion disease,thyrotoxicosis,1,1,0.7216035634743876
+thyrocalcitonin secretion disease,thyroid malformation,1,1,0.7216035634743876
+pancytopenia,anemia,1,1,0.8536299765807963
+pancytopenia,hemolytic anemia,1,1,0.6249464209172738
+leiomyoma,squamous cell papilloma,1,1,0.6388774246801486
+leiomyoma,benign mesothelioma,1,1,0.7188484030589295
+leiomyoma,squamous cell neoplasm,1,1,0.7334754797441365
+Huntington's disease,multisystem proteinopathy,1,1,0.6586564718732933
+Huntington's disease,Alzheimer's disease,1,1,0.6487918439431646
+Huntington's disease,hemiplegia,1,1,0.6249464209172738
+Huntington's disease,subdural empyema,1,1,0.6249464209172738
+Huntington's disease,Parkinson's disease,1,1,0.6487918439431646
+Huntington's disease,demyelinating disease,1,1,0.6249464209172738
+Huntington's disease,plexopathy,1,1,0.7418422139611731
+Huntington's disease,primary cerebellar degeneration,1,1,0.7418422139611731
+Huntington's disease,brain disease,1,1,0.6328157784305498
+carotid stenosis,artery disease,1,1,0.6308830121021963
+carotid stenosis,stroke,1,1,0.7094123371357518
+carotid stenosis,ischemic stroke,1,1,0.6391808725014977
+carotid stenosis,vertebral artery occlusion,1,1,0.7223456241670368
+carotid stenosis,intracranial arterial disease,1,1,0.7094123371357518
+carotid stenosis,brain ischemia,1,1,0.6645060009115309
+carotid stenosis,carotid artery thrombosis,1,1,0.7500999600159937
+carotid stenosis,cerebral arterial disease,1,1,0.7321045863694813
+carotid stenosis,intracranial thrombosis,1,1,0.6645060009115309
+carotid stenosis,intracranial embolism,1,1,0.7094123371357518
+carotid stenosis,occlusion precerebral artery,1,1,0.7094123371357518
+carotid stenosis,cerebrovascular disease,1,1,0.7957625756682917
+traumatic glaucoma,ptosis,1,1,0.6586564718732933
+traumatic glaucoma,open-angle glaucoma,1,1,0.7619773021555336
+traumatic glaucoma,glaucoma,1,1,0.8780915970976048
+dementia,subjective cognitive decline,1,1,0.6612466124661247
+dementia,mild cognitive impairment,1,1,0.6612466124661247
+dementia,cognitive disorder,1,1,0.8145400593471809
+dementia,anxiety disorder,1,1,0.6612466124661247
+dementia,psychotic disorder,1,1,0.6612466124661247
+dementia,mood disorder,1,1,0.6612466124661247
+intracranial arterial disease,stroke,1,1,0.8160141301148072
+intracranial arterial disease,ischemic stroke,1,1,0.7403406730369755
+intracranial arterial disease,vertebral artery occlusion,1,1,0.699951992318771
+intracranial arterial disease,carotid stenosis,1,1,0.7094123371357518
+intracranial arterial disease,vascular disease,1,1,0.6125046108447069
+intracranial arterial disease,brain ischemia,1,1,0.7600767754318619
+intracranial arterial disease,carotid artery thrombosis,1,1,0.6249464209172739
+intracranial arterial disease,cerebral arterial disease,1,1,0.8556581986143187
+intracranial arterial disease,intracranial thrombosis,1,1,0.7600767754318619
+intracranial arterial disease,intracranial embolism,1,1,0.8160141301148072
+intracranial arterial disease,occlusion precerebral artery,1,1,0.8160141301148072
+intracranial arterial disease,cerebrovascular disease,1,1,0.908918682599825
+intracranial arterial disease,brain disease,1,1,0.6786833855799373
+diarrhea,esophageal atresia/tracheoesophageal fistula,1,1,0.6753246753246753
+diarrhea,mucositis,1,1,0.6753246753246753
+diarrhea,peptic ulcer disease,1,1,0.6753246753246753
+diarrhea,gastroesophageal reflux disease,1,1,0.6753246753246753
+aspergillosis,invasive aspergillosis,1,1,0.6786872208968007
+aspergillosis,opportunistic mycosis,1,1,0.8617868199911544
+endometrial cancer,ovarian cancer,1,1,0.6355245809003579
+endometrial cancer,placental site trophoblastic tumor,1,1,0.6923667171033333
+endometrial cancer,cervical cancer,1,1,0.7827933737498552
+endometrial cancer,choriocarcinoma of the testis,1,1,0.6923667171033333
+adhesions of uterus,placental insufficiency,1,1,0.6639010524698472
+polyneuropathy,motor peripheral neuropathy,1,1,0.6249464209172738
+polyneuropathy,sensory peripheral neuropathy,1,1,0.6249464209172738
+polyneuropathy,neuropathy,1,1,0.7216035634743876
+squamous cell papilloma,leiomyoma,1,1,0.6388774246801486
+squamous cell papilloma,benign mesothelioma,1,1,0.6197305519339419
+squamous cell papilloma,squamous cell neoplasm,1,1,0.6388774246801486
+chronic orbital inflammation,ischemic bone disease,1,1,0.6639010524698472
+chronic orbital inflammation,endocrine exophthalmos,1,1,0.7690147091433218
+chronic orbital inflammation,connective tissue disease,1,1,0.6776443730447281
+peptic esophagitis,esophagitis,1,1,0.8660522931847405
+peptic esophagitis,Barrett's esophagus,1,1,0.6249464209172738
+infertility due to extratesticular cause,spermatogenic failure,1,1,0.7510951812027084
+infertility due to extratesticular cause,sexual dysfunction,1,1,0.6249464209172738
+tracheal calcification,respiratory system disease,1,1,0.6303926320891904
+tracheal calcification,tracheal disease,1,1,0.8710276516714817
+pulmonary valve insufficiency,cardiomyopathy,1,1,0.6165370621388315
+pulmonary valve insufficiency,heart conduction disease,1,1,0.6165370621388315
+pulmonary valve insufficiency,heart disease,1,1,0.7220602172486695
+pulmonary valve insufficiency,congestive heart failure,1,1,0.6165370621388315
+generalized anxiety disorder,cognitive disorder,1,1,0.6897407611693327
+generalized anxiety disorder,anxiety disorder,1,1,0.841611758743031
+Parkinson's disease,Huntington's disease,1,1,0.6487918439431646
+Parkinson's disease,plexopathy,1,1,0.6487918439431646
+Parkinson's disease,primary cerebellar degeneration,1,1,0.6487918439431646
+Riedel's fibrosing thyroiditis,thyrocalcitonin secretion disease,1,1,0.6249464209172738
+Riedel's fibrosing thyroiditis,hypothyroidism,1,1,0.6249464209172738
+Riedel's fibrosing thyroiditis,thyroid gland disease,1,1,0.7469635627530364
+Riedel's fibrosing thyroiditis,thyroiditis,1,1,0.8660522931847405
+Riedel's fibrosing thyroiditis,thyrotoxicosis,1,1,0.6249464209172738
+Riedel's fibrosing thyroiditis,thyroid malformation,1,1,0.6249464209172738
+disease of cellular proliferation,in situ carcinoma,1,1,0.6212121212121212
+postsurgical hypothyroidism,thyrocalcitonin secretion disease,1,1,0.6249464209172738
+postsurgical hypothyroidism,hypothyroidism,1,1,0.8660522931847405
+postsurgical hypothyroidism,thyroid gland disease,1,1,0.7469635627530364
+postsurgical hypothyroidism,thyroiditis,1,1,0.6249464209172738
+postsurgical hypothyroidism,thyrotoxicosis,1,1,0.6249464209172738
+postsurgical hypothyroidism,thyroid malformation,1,1,0.6249464209172738
+hypothyroidism,thyrocalcitonin secretion disease,1,1,0.7216035634743876
+hypothyroidism,Riedel's fibrosing thyroiditis,1,1,0.6249464209172738
+hypothyroidism,postsurgical hypothyroidism,1,1,0.8660522931847405
+hypothyroidism,thyroid gland disease,1,1,0.8536299765807963
+hypothyroidism,thyroiditis,1,1,0.7216035634743876
+hypothyroidism,thyrotoxicosis,1,1,0.7216035634743876
+hypothyroidism,thyroid malformation,1,1,0.7216035634743876
+cognitive disorder,subjective cognitive decline,1,1,0.8145400593471809
+cognitive disorder,mild cognitive impairment,1,1,0.8145400593471809
+cognitive disorder,dementia,1,1,0.8145400593471809
+cognitive disorder,generalized anxiety disorder,1,1,0.6897407611693327
+cognitive disorder,depressive disorder,1,1,0.6897407611693327
+cognitive disorder,anxiety disorder,1,1,0.8145400593471809
+cognitive disorder,psychotic disorder,1,1,0.8145400593471809
+cognitive disorder,bipolar disorder,1,1,0.6897407611693327
+cognitive disorder,mood disorder,1,1,0.8145400593471809
+cognitive disorder,schizoaffective disorder,1,1,0.6897407611693327
+cognitive disorder,schizophrenia,1,1,0.6897407611693327
+alcohol use disorder,opioid abuse,1,1,0.7025226082817706
+alcohol use disorder,substance abuse,1,1,0.841611758743031
+alcohol use disorder,substance-related disorder,1,1,0.6897407611693327
+alcohol use disorder,phencyclidine abuse,1,1,0.7025226082817706
+limited scleroderma,pulmonary systemic sclerosis,1,1,0.6397442329906772
+limited scleroderma,scleroderma,1,1,0.7792143563656918
+limited scleroderma,connective tissue disease,1,1,0.6074000306419488
+limited scleroderma,localized scleroderma,1,1,0.665790720058668
+pulmonary systemic sclerosis,pneumoconiosis,1,1,0.6122107902021204
+pulmonary systemic sclerosis,limited scleroderma,1,1,0.6397442329906772
+pulmonary systemic sclerosis,interstitial lung disease,1,1,0.6811586719677802
+pulmonary systemic sclerosis,pulmonary fibrosis,1,1,0.6122107902021204
+pulmonary systemic sclerosis,scleroderma,1,1,0.6448476403949839
+pulmonary systemic sclerosis,lung disease,1,1,0.6467181467181468
+respiratory system disease,respiratory failure,1,1,0.6303926320891904
+respiratory system disease,bronchopulmonary dysplasia,1,1,0.6303926320891904
+respiratory system disease,bronchial disease,1,1,0.716624685138539
+respiratory system disease,pulmonary alveolar proteinosis,1,1,0.6303926320891904
+respiratory system disease,tracheal calcification,1,1,0.6303926320891904
+respiratory system disease,pneumothorax,1,1,0.6303926320891904
+respiratory system disease,musculoskeletal system disease,1,1,0.6153846153846154
+respiratory system disease,urinary system disease,1,1,0.6153846153846154
+respiratory system disease,nasal cavity disease,1,1,0.639138665404638
+respiratory system disease,obstructive lung disease,1,1,0.6303926320891904
+respiratory system disease,asthma,1,1,0.6303926320891904
+respiratory system disease,immune system disease,1,1,0.6153846153846154
+respiratory system disease,tracheal disease,1,1,0.716624685138539
+respiratory system disease,pleural empyema,1,1,0.6303926320891904
+respiratory system disease,pulmonary immaturity,1,1,0.6303926320891904
+respiratory system disease,pneumonia,1,1,0.6303926320891904
+respiratory system disease,bronchitis,1,1,0.6303926320891904
+respiratory system disease,influenza,1,1,0.6573033707865168
+respiratory system disease,lung disease,1,1,0.716624685138539
+respiratory system disease,bronchiectasis,1,1,0.6303926320891904
+thrombocytopenia,thrombocytosis,1,1,0.7500999600159937
+thrombocytopenia,thrombophilia,1,1,0.6249464209172738
+depressive disorder,cognitive disorder,1,1,0.6897407611693327
+depressive disorder,bipolar disorder,1,1,0.7025226082817706
+depressive disorder,mood disorder,1,1,0.841611758743031
+breast cancer,head and neck cancer,1,1,0.6208112874779541
+breast cancer,cardiovascular cancer,1,1,0.6616541353383459
+breast cancer,hematologic cancer,1,1,0.6616541353383459
+breast cancer,invasive ductal carcinoma,1,1,0.7672608509858984
+breast cancer,thoracic cancer,1,1,0.6616541353383459
+breast cancer,inflammatory breast carcinoma,1,1,0.672798157936051
+pneumothorax,bronchial disease,1,1,0.6388774246801486
+pneumothorax,respiratory system disease,1,1,0.6303926320891904
+pneumothorax,pleural empyema,1,1,0.7500999600159937
+pneumothorax,lung disease,1,1,0.6388774246801486
+glaucoma,ptosis,1,1,0.7500999600159937
+glaucoma,isolated microphthalmia,1,1,0.6586564718732933
+glaucoma,deprivation amblyopia,1,1,0.6586564718732933
+glaucoma,open-angle glaucoma,1,1,0.8780915970976048
+glaucoma,abnormal pupillary function,1,1,0.6639010524698472
+glaucoma,traumatic glaucoma,1,1,0.8780915970976048
+glaucoma,iris disease,1,1,0.670234416220698
+glaucoma,stenosis of lacrimal sac,1,1,0.6639010524698472
+neuroendocrine tumor,head and neck cancer,1,1,0.6388774246801486
+neuroendocrine tumor,pancreatic cancer,1,1,0.6226703330278033
+neuroendocrine tumor,adult pineal parenchymal tumor,1,1,0.6711762495302519
+musculoskeletal system disease,ischemic bone disease,1,1,0.6303926320891904
+musculoskeletal system disease,respiratory system disease,1,1,0.6153846153846154
+musculoskeletal system disease,urinary system disease,1,1,0.6153846153846154
+musculoskeletal system disease,immune system disease,1,1,0.6153846153846154
+musculoskeletal system disease,scleroderma,1,1,0.6230845279288184
+musculoskeletal system disease,connective tissue disease,1,1,0.8287671232876712
+histoplasmosis,American histoplasmosis,1,1,0.8715999671295916
+histoplasmosis,opportunistic mycosis,1,1,0.6130030959752323
+squamous cell carcinoma,neuroendocrine carcinoma,1,1,0.7617232176896683
+squamous cell carcinoma,melanoma,1,1,0.6561886051080551
+squamous cell carcinoma,adenocarcinoma,1,1,0.7723132969034608
+squamous cell carcinoma,skin squamous cell carcinoma,1,1,0.6316152784169351
+squamous cell carcinoma,sarcomatoid carcinoma,1,1,0.7617232176896683
+squamous cell carcinoma,papillary squamous carcinoma,1,1,0.887711103126123
+squamous cell carcinoma,large cell carcinoma,1,1,0.7617232176896683
+squamous cell carcinoma,adenosquamous carcinoma,1,1,0.8924268502581756
+squamous cell carcinoma,myoepithelial carcinoma,1,1,0.7617232176896683
+squamous cell carcinoma,head and neck squamous cell carcinoma,1,1,0.7281167108753315
+squamous cell carcinoma,pleomorphic carcinoma,1,1,0.6741639979146498
+American histoplasmosis,histoplasmosis,1,1,0.8715999671295916
+cardiovascular cancer,heart cancer,1,1,0.7551390568319226
+cardiovascular cancer,head and neck cancer,1,1,0.6208112874779541
+cardiovascular cancer,breast cancer,1,1,0.6616541353383459
+cardiovascular cancer,glomus tumor,1,1,0.6056970233128589
+cardiovascular cancer,hematologic cancer,1,1,0.6616541353383459
+cardiovascular cancer,superior vena cava angiosarcoma,1,1,0.6921807565371922
+cardiovascular cancer,thoracic cancer,1,1,0.6616541353383459
+cardiovascular cancer,heart leiomyosarcoma,1,1,0.6820665020749067
+vascular disease,artery disease,1,1,0.8536299765807963
+vascular disease,peripheral artery disease,1,1,0.7469635627530364
+vascular disease,limb ischemia,1,1,0.7469635627530364
+vascular disease,chronic venous insufficiency,1,1,0.6720994237550528
+vascular disease,stroke,1,1,0.6125046108447069
+vascular disease,thrombosis,1,1,0.8536299765807963
+vascular disease,hepatic veno-occlusive disease,1,1,0.6125046108447069
+vascular disease,nonobstructive coronary artery disease,1,1,0.6675241998779105
+vascular disease,Raynaud disease,1,1,0.7469635627530364
+vascular disease,hypertension,1,1,0.7469635627530364
+vascular disease,heart disease,1,1,0.6153846153846154
+vascular disease,intracranial arterial disease,1,1,0.6125046108447069
+vascular disease,arteriosclerotic cardiovascular disease,1,1,0.6675241998779105
+vascular disease,renal artery disease,1,1,0.7641509433962265
+vascular disease,ischemia,1,1,0.8536299765807963
+vascular disease,coronary artery disease,1,1,0.7469635627530364
+vascular disease,peripheral vascular disease,1,1,0.8536299765807963
+vascular disease,aortic aneurysm,1,1,0.6776443730447281
+vascular disease,Shwartzman phenomenon,1,1,0.7469635627530364
+vascular disease,intracranial embolism,1,1,0.6125046108447069
+vascular disease,pulmonary venoocclusive disease,1,1,0.6074000306419488
+vascular disease,myocardial infarction,1,1,0.6675241998779105
+vascular disease,inferior myocardial infarction,1,1,0.6074000306419488
+vascular disease,occlusion precerebral artery,1,1,0.6125046108447069
+vascular disease,pulmonary hypertension,1,1,0.6675241998779105
+vascular disease,cerebrovascular disease,1,1,0.6639344262295083
+vascular disease,abdominal aortic aneurysm,1,1,0.616793778974129
+vascular disease,vasculitis,1,1,0.8536299765807963
+vascular disease,acute myocardial infarction,1,1,0.6074000306419488
+pericarditis,heart disease,1,1,0.6615087040618955
+pericarditis,cardiac tamponade,1,1,0.6750835499443001
+pericarditis,pericardial effusion,1,1,0.7637051039697543
+pancreatic cancer,neuroendocrine tumor,1,1,0.6226703330278033
+pancreatic cancer,pancreatic adenocarcinoma,1,1,0.7007013075373114
+urinary system disease,urinary tract infection,1,1,0.6573033707865168
+urinary system disease,interstitial nephritis,1,1,0.6230845279288184
+urinary system disease,nephritis,1,1,0.7093023255813954
+urinary system disease,respiratory system disease,1,1,0.6153846153846154
+urinary system disease,musculoskeletal system disease,1,1,0.6153846153846154
+urinary system disease,immune system disease,1,1,0.6153846153846154
+urinary system disease,glomerulonephritis,1,1,0.6230845279288184
+urinary system disease,acute kidney failure,1,1,0.6230845279288184
+urinary system disease,urinary tract obstruction,1,1,0.8239436619718311
+urinary system disease,kidney disease,1,1,0.8287671232876712
+urinary system disease,proteinuria,1,1,0.7093023255813954
+urinary system disease,radiation cystitis,1,1,0.6230845279288184
+urinary system disease,chronic kidney disease,1,1,0.6230845279288184
+neuroendocrine carcinoma,squamous cell carcinoma,1,1,0.7617232176896683
+neuroendocrine carcinoma,melanoma,1,1,0.6388774246801486
+neuroendocrine carcinoma,adenocarcinoma,1,1,0.7617232176896683
+neuroendocrine carcinoma,sarcomatoid carcinoma,1,1,0.7500999600159937
+neuroendocrine carcinoma,papillary squamous carcinoma,1,1,0.6711762495302519
+neuroendocrine carcinoma,large cell carcinoma,1,1,0.7500999600159937
+neuroendocrine carcinoma,adenosquamous carcinoma,1,1,0.6855910887531441
+neuroendocrine carcinoma,myoepithelial carcinoma,1,1,0.7500999600159937
+neuroendocrine carcinoma,pleomorphic carcinoma,1,1,0.6586564718732933
+epilepsy,La Crosse encephalitis,1,1,0.6357167062012878
+epilepsy,traumatic brain injury,1,1,0.7500999600159937
+epilepsy,Huntington's disease-like 1,1,1,0.6165370621388314
+epilepsy,complex cortical dysplasia with other brain malformations,1,1,0.7500999600159937
+epilepsy,Eastern equine encephalitis,1,1,0.6357167062012878
+epilepsy,hemiplegia,1,1,0.6312684365781711
+epilepsy,subdural empyema,1,1,0.6312684365781711
+epilepsy,pseudotumor cerebri,1,1,0.6586564718732933
+epilepsy,cerebral palsy,1,1,0.7500999600159937
+epilepsy,demyelinating disease,1,1,0.6312684365781711
+epilepsy,frontal lobe epilepsy,1,1,0.7847565548803822
+epilepsy,brain edema,1,1,0.7500999600159937
+epilepsy,movement disease,1,1,0.7500999600159937
+epilepsy,cerebrovascular disease,1,1,0.639624539054643
+epilepsy,brain disease,1,1,0.8710276516714817
+epilepsy,hypertensive encephalopathy,1,1,0.6586564718732933
+epilepsy,encephalitis,1,1,0.7500999600159937
+diabetic ketoacidosis,metabolic acidosis,1,1,0.841611758743031
+bone cancer,glomus tumor,1,1,0.6015924200115843
+bone cancer,peripheral osteosarcoma,1,1,0.7457178973311694
+bone cancer,muscle cancer,1,1,0.6365105008077545
+bone cancer,spinal chordoma,1,1,0.789768527362275
+bone cancer,well-differentiated liposarcoma,1,1,0.7300475116379518
+bone cancer,synchronous multifocal osteogenic sarcoma,1,1,0.7688148000781694
+bone cancer,upper clivus meningioma,1,1,0.6247041321315936
+bone cancer,Kaposi's sarcoma,1,1,0.7199323610230396
+sexual dysfunction,spermatogenic failure,1,1,0.6388774246801486
+sexual dysfunction,infertility due to extratesticular cause,1,1,0.6249464209172738
+sexual dysfunction,infected hydrocele,1,1,0.6249464209172738
+hepatitis C,viral hepatitis,1,1,0.912162845867578
+hepatitis C,hepatitis B,1,1,0.8219190572252425
+hepatitis C,hepatitis D,1,1,0.8219190572252425
+hepatitis C,liver disease,1,1,0.616543459546616
+hepatitis C,hepatitis E,1,1,0.8219190572252425
+viral hepatitis,hepatitis C,1,1,0.912162845867578
+viral hepatitis,hepatitis B,1,1,0.912162845867578
+viral hepatitis,drug-induced hepatitis,1,1,0.654984273701778
+viral hepatitis,hepatitis D,1,1,0.912162845867578
+viral hepatitis,granulomatous hepatitis,1,1,0.654984273701778
+viral hepatitis,liver disease,1,1,0.6597096188747732
+viral hepatitis,hepatitis E,1,1,0.912162845867578
+optic nerve disease,motor peripheral neuropathy,1,1,0.6651871125736589
+optic nerve disease,sensory peripheral neuropathy,1,1,0.6651871125736589
+optic nerve disease,neuropathy,1,1,0.7772630078403421
+melanoma,squamous cell carcinoma,1,1,0.6561886051080551
+melanoma,neuroendocrine carcinoma,1,1,0.6388774246801486
+melanoma,adenocarcinoma,1,1,0.6561886051080551
+melanoma,small cell sarcoma,1,1,0.6388774246801486
+melanoma,sarcomatoid carcinoma,1,1,0.6388774246801486
+melanoma,large cell carcinoma,1,1,0.6388774246801486
+melanoma,adenosquamous carcinoma,1,1,0.6025878003696858
+melanoma,myoepithelial carcinoma,1,1,0.6388774246801486
+melanoma,mixed glioma,1,1,0.6388774246801486
+melanoma,mixed epithelial stromal tumour,1,1,0.6388774246801486
+melanoma,skin melanoma,1,1,0.6030115395440473
+cerebral palsy,La Crosse encephalitis,1,1,0.6357167062012878
+cerebral palsy,traumatic brain injury,1,1,0.7500999600159937
+cerebral palsy,Huntington's disease-like 1,1,1,0.6165370621388314
+cerebral palsy,complex cortical dysplasia with other brain malformations,1,1,0.7500999600159937
+cerebral palsy,Eastern equine encephalitis,1,1,0.6357167062012878
+cerebral palsy,hemiplegia,1,1,0.6312684365781711
+cerebral palsy,subdural empyema,1,1,0.6312684365781711
+cerebral palsy,pseudotumor cerebri,1,1,0.6586564718732933
+cerebral palsy,epilepsy,1,1,0.7500999600159937
+cerebral palsy,demyelinating disease,1,1,0.6312684365781711
+cerebral palsy,brain edema,1,1,0.7500999600159937
+cerebral palsy,movement disease,1,1,0.7500999600159937
+cerebral palsy,cerebrovascular disease,1,1,0.639624539054643
+cerebral palsy,brain disease,1,1,0.8710276516714817
+cerebral palsy,hypertensive encephalopathy,1,1,0.6586564718732933
+cerebral palsy,encephalitis,1,1,0.7500999600159937
+rectum malignant melanoma,small intestine cancer,1,1,0.6207667668352548
+rectum malignant melanoma,colon cancer,1,1,0.6826884488119049
+rectum malignant melanoma,colorectal cancer,1,1,0.7673256769501442
+preretinal fibrosis,macular degeneration,1,1,0.8230021553145547
+anxiety disorder,subjective cognitive decline,1,1,0.6612466124661247
+anxiety disorder,mild cognitive impairment,1,1,0.6612466124661247
+anxiety disorder,dementia,1,1,0.6612466124661247
+anxiety disorder,generalized anxiety disorder,1,1,0.841611758743031
+anxiety disorder,cognitive disorder,1,1,0.8145400593471809
+anxiety disorder,psychotic disorder,1,1,0.6612466124661247
+anxiety disorder,mood disorder,1,1,0.6612466124661247
+hepatitis B,hepatitis C,1,1,0.8219190572252425
+hepatitis B,viral hepatitis,1,1,0.912162845867578
+hepatitis B,hepatitis D,1,1,0.8219190572252425
+hepatitis B,liver disease,1,1,0.616543459546616
+hepatitis B,hepatitis E,1,1,0.8219190572252425
+drug-induced hepatitis,viral hepatitis,1,1,0.654984273701778
+drug-induced hepatitis,granulomatous hepatitis,1,1,0.7619773021555336
+drug-induced hepatitis,liver disease,1,1,0.773678281161986
+drug-induced hepatitis,liver cirrhosis,1,1,0.6586564718732933
+hepatitis D,hepatitis C,1,1,0.8219190572252425
+hepatitis D,viral hepatitis,1,1,0.912162845867578
+hepatitis D,hepatitis B,1,1,0.8219190572252425
+hepatitis D,liver disease,1,1,0.616543459546616
+hepatitis D,hepatitis E,1,1,0.8219190572252425
+autoimmune hepatitis,autoimmune disease,1,1,0.682952182952183
+intestinal perforation,inflammatory bowel disease,1,1,0.7216035634743876
+intestinal perforation,anal fistula,1,1,0.6249464209172738
+intestinal perforation,protein-losing enteropathy,1,1,0.7216035634743876
+intestinal perforation,functional diarrhea,1,1,0.6312684365781711
+intestinal perforation,duodenal obstruction,1,1,0.6312684365781711
+intestinal perforation,duodenogastric reflux,1,1,0.6312684365781711
+intestinal perforation,chronic intestinal vascular insufficiency,1,1,0.7216035634743876
+intestinal perforation,bowel dysfunction,1,1,0.7216035634743876
+brain germinoma,medulloblastoma non-WNT/non-SHH,1,1,0.665304180339814
+brain germinoma,central nervous system sarcoma,1,1,0.6844572664983772
+brain germinoma,malignant astrocytoma,1,1,0.6844572664983772
+brain germinoma,C-P angle neurinoma,1,1,0.6340091949053732
+brain germinoma,malignant leptomeningeal neoplasm,1,1,0.602712744527508
+central nervous system sarcoma,brain germinoma,1,1,0.6844572664983772
+central nervous system sarcoma,malignant astrocytoma,1,1,0.7637051039697543
+central nervous system sarcoma,spinal cord oligodendroglioma,1,1,0.6208647809832828
+central nervous system sarcoma,malignant leptomeningeal neoplasm,1,1,0.6873082550620664
+nasal cavity disease,respiratory system disease,1,1,0.639138665404638
+nasal cavity disease,tracheal disease,1,1,0.6461787302871007
+nasal cavity disease,allergic rhinitis,1,1,0.6501462075550517
+colon cancer,small intestine cancer,1,1,0.7095190073223132
+colon cancer,rectum malignant melanoma,1,1,0.6826884488119049
+colon cancer,colon adenocarcinoma,1,1,0.7833348362842915
+colon cancer,rectosigmoid cancer,1,1,0.8364415095103739
+colon cancer,submucosal invasive colon adenocarcinoma,1,1,0.7571816747874073
+colon cancer,jejunal somatostatinoma,1,1,0.6050394738013226
+colon cancer,colorectal cancer,1,1,0.8741554431965637
+essential thrombocythemia,"myeloid and lymphoid neoplasms with eosinophilia and abnormalities of PDGFRA, PDGFRB, and FGFR1",1,1,0.7605966751666249
+essential thrombocythemia,myeloid and lymphoid neoplasms associated with PDGFRA rearrangement,1,1,0.6871558714586046
+essential thrombocythemia,leukemia,1,1,0.6038389545766338
+essential thrombocythemia,hematologic cancer,1,1,0.6964329060372431
+essential thrombocythemia,bone marrow cancer,1,1,0.8004198381372168
+essential thrombocythemia,multiple myeloma,1,1,0.7260454107127204
+thrombocytosis,thrombocytopenia,1,1,0.7500999600159937
+thrombocytosis,thrombophilia,1,1,0.6249464209172738
+granulomatous hepatitis,viral hepatitis,1,1,0.654984273701778
+granulomatous hepatitis,drug-induced hepatitis,1,1,0.7619773021555336
+granulomatous hepatitis,liver disease,1,1,0.773678281161986
+granulomatous hepatitis,liver cirrhosis,1,1,0.6586564718732933
+malt worker's lung,pneumoconiosis,1,1,0.677326644719653
+malt worker's lung,ventilation pneumonitis,1,1,0.8503997319163196
+malt worker's lung,interstitial lung disease,1,1,0.7617141085912074
+malt worker's lung,pulmonary fibrosis,1,1,0.677326644719653
+brain ischemia,stroke,1,1,0.7600767754318619
+brain ischemia,ischemic stroke,1,1,0.6892093485827946
+brain ischemia,vertebral artery occlusion,1,1,0.6561984297644647
+brain ischemia,carotid stenosis,1,1,0.6645060009115309
+brain ischemia,intracranial arterial disease,1,1,0.7600767754318619
+brain ischemia,ischemia,1,1,0.6579290133507001
+brain ischemia,cerebral arterial disease,1,1,0.6684350132625995
+brain ischemia,intracranial thrombosis,1,1,0.7113163972286375
+brain ischemia,intracranial embolism,1,1,0.7600767754318619
+brain ischemia,occlusion precerebral artery,1,1,0.7600767754318619
+brain ischemia,cerebrovascular disease,1,1,0.8471882640586796
+brain ischemia,brain disease,1,1,0.6243191284844601
+obstructive lung disease,pulmonary interstitial emphysema,1,1,0.7126172521611182
+obstructive lung disease,respiratory failure,1,1,0.7500999600159937
+obstructive lung disease,bronchopulmonary dysplasia,1,1,0.7500999600159937
+obstructive lung disease,bronchial disease,1,1,0.6388774246801486
+obstructive lung disease,pulmonary alveolar proteinosis,1,1,0.7500999600159937
+obstructive lung disease,respiratory system disease,1,1,0.6303926320891904
+obstructive lung disease,idiopathic interstitial pneumonia,1,1,0.6586564718732933
+obstructive lung disease,bronchiolitis,1,1,0.6819338422391859
+obstructive lung disease,interstitial lung disease,1,1,0.6455654467523905
+obstructive lung disease,chronic obstructive pulmonary disease,1,1,0.8780915970976048
+obstructive lung disease,aspiration pneumonitis,1,1,0.6586564718732933
+obstructive lung disease,pulmonary immaturity,1,1,0.7500999600159937
+obstructive lung disease,pneumonia,1,1,0.7500999600159937
+obstructive lung disease,lung disease,1,1,0.8710276516714817
+obstructive lung disease,pulmonary eosinophilia,1,1,0.6030215364834459
+obstructive lung disease,pulmonary emphysema,1,1,0.7847565548803822
+colon adenocarcinoma,colon cancer,1,1,0.7833348362842915
+colon adenocarcinoma,rectosigmoid cancer,1,1,0.6123578164530488
+colon adenocarcinoma,submucosal invasive colon adenocarcinoma,1,1,0.9429715053887456
+colon adenocarcinoma,anal carcinoma,1,1,0.6020046961680906
+colon adenocarcinoma,colorectal cancer,1,1,0.6807009619183028
+arteriosclerotic cardiovascular disease,artery disease,1,1,0.7659565615378214
+arteriosclerotic cardiovascular disease,peripheral artery disease,1,1,0.6487918439431646
+arteriosclerotic cardiovascular disease,hypertension,1,1,0.6487918439431646
+arteriosclerotic cardiovascular disease,vascular disease,1,1,0.6675241998779105
+arteriosclerotic cardiovascular disease,renal artery disease,1,1,0.6702344162206981
+arteriosclerotic cardiovascular disease,coronary artery disease,1,1,0.6487918439431646
+anemia,pancytopenia,1,1,0.8536299765807963
+anemia,hemolytic anemia,1,1,0.7469635627530364
+multiple sclerosis,primary progressive multiple sclerosis,1,1,0.925041976493164
+multiple sclerosis,relapsing-remitting multiple sclerosis,1,1,0.925041976493164
+multiple sclerosis,demyelinating disease,1,1,0.6286370597243491
+multiple sclerosis,myasthenia gravis,1,1,0.6304044630404463
+relapsing-remitting multiple sclerosis,primary progressive multiple sclerosis,1,1,0.845793239575623
+relapsing-remitting multiple sclerosis,multiple sclerosis,1,1,0.925041976493164
+renal artery disease,artery disease,1,1,0.874749498997996
+renal artery disease,peripheral artery disease,1,1,0.7580332946186605
+renal artery disease,thrombosis,1,1,0.6492985971943889
+renal artery disease,nonobstructive coronary artery disease,1,1,0.6702344162206981
+renal artery disease,hypertension,1,1,0.7580332946186605
+renal artery disease,vascular disease,1,1,0.7641509433962265
+renal artery disease,arteriosclerotic cardiovascular disease,1,1,0.6702344162206981
+renal artery disease,ischemia,1,1,0.6492985971943889
+renal artery disease,coronary artery disease,1,1,0.7580332946186605
+renal artery disease,peripheral vascular disease,1,1,0.6492985971943889
+renal artery disease,aortic aneurysm,1,1,0.6789462097306819
+renal artery disease,pulmonary venoocclusive disease,1,1,0.6032800436945516
+renal artery disease,myocardial infarction,1,1,0.6702344162206981
+renal artery disease,inferior myocardial infarction,1,1,0.6032800436945516
+renal artery disease,pulmonary hypertension,1,1,0.6702344162206981
+renal artery disease,abdominal aortic aneurysm,1,1,0.6115375164419005
+renal artery disease,vasculitis,1,1,0.6492985971943889
+renal artery disease,acute myocardial infarction,1,1,0.6032800436945516
+ovarian cancer,endometrial cancer,1,1,0.6355245809003579
+ovarian cancer,cervical cancer,1,1,0.6286986222512185
+iris disease,ptosis,1,1,0.670234416220698
+iris disease,glaucoma,1,1,0.670234416220698
+glomus tumor,cardiovascular cancer,1,1,0.6056970233128589
+glomus tumor,bone cancer,1,1,0.6015924200115843
+thrombophilia,DIC in newborn,1,1,0.7593891693044742
+thrombophilia,disseminated intravascular coagulation,1,1,0.8617868199911544
+thrombophilia,thrombocytopenia,1,1,0.6249464209172738
+thrombophilia,thrombocytosis,1,1,0.6249464209172738
+psychotic disorder,subjective cognitive decline,1,1,0.6612466124661247
+psychotic disorder,mild cognitive impairment,1,1,0.6612466124661247
+psychotic disorder,dementia,1,1,0.6612466124661247
+psychotic disorder,cognitive disorder,1,1,0.8145400593471809
+psychotic disorder,anxiety disorder,1,1,0.6612466124661247
+psychotic disorder,alcoholic psychosis,1,1,0.6465522036600968
+psychotic disorder,mood disorder,1,1,0.6612466124661247
+psychotic disorder,schizoaffective disorder,1,1,0.841611758743031
+psychotic disorder,schizophrenia,1,1,0.841611758743031
+opportunistic mycosis,aspergillosis,1,1,0.8617868199911544
+opportunistic mycosis,histoplasmosis,1,1,0.6130030959752323
+motor peripheral neuropathy,polyneuropathy,1,1,0.6249464209172738
+motor peripheral neuropathy,optic nerve disease,1,1,0.6651871125736589
+motor peripheral neuropathy,sensory peripheral neuropathy,1,1,0.7418422139611731
+motor peripheral neuropathy,paraneoplastic polyneuropathy,1,1,0.6487918439431646
+motor peripheral neuropathy,neuropathy,1,1,0.8660522931847405
+sensory peripheral neuropathy,polyneuropathy,1,1,0.6249464209172738
+sensory peripheral neuropathy,optic nerve disease,1,1,0.6651871125736589
+sensory peripheral neuropathy,motor peripheral neuropathy,1,1,0.7418422139611731
+sensory peripheral neuropathy,paraneoplastic polyneuropathy,1,1,0.6487918439431646
+sensory peripheral neuropathy,neuropathy,1,1,0.8660522931847405
+basal cell carcinoma,skin squamous cell carcinoma,1,1,0.8232251808153864
+basal cell carcinoma,Merkel cell carcinoma,1,1,0.8649466269069537
+basal cell carcinoma,skin cancer,1,1,0.7919204222492895
+basal cell carcinoma,clear cell basal cell carcinoma,1,1,0.9328263243424504
+basal cell carcinoma,malignant dermis tumor,1,1,0.7213070361511035
+basal cell carcinoma,skin melanoma,1,1,0.7234628709771674
+alcoholic psychosis,psychotic disorder,1,1,0.6465522036600968
+prostate adenocarcinoma,prostate cancer,1,1,0.7670708740255715
+prostate adenocarcinoma,adenocarcinoma,1,1,0.6031906477981893
+splenic disease,splenic sequestration,1,1,0.8710276516714817
+splenic disease,splenic infarction,1,1,0.8710276516714817
+splenic disease,malignant histiocytic disease,1,1,0.6328157784305498
+splenic disease,immune system disease,1,1,0.716624685138539
+splenic disease,lymphatic system disease,1,1,0.856979405034325
+splenic disease,lymph node disease,1,1,0.7334754797441365
+hematologic cancer,lymphoma,1,1,0.7330558858501783
+hematologic cancer,non-Hodgkin lymphoma,1,1,0.6980543776502869
+hematologic cancer,"myeloid and lymphoid neoplasms with eosinophilia and abnormalities of PDGFRA, PDGFRB, and FGFR1",1,1,0.7378814570665455
+hematologic cancer,myeloid and lymphoid neoplasms associated with PDGFRA rearrangement,1,1,0.6964329060372431
+hematologic cancer,chronic neutrophilic leukemia,1,1,0.7672608509858984
+hematologic cancer,nodal marginal zone lymphoma,1,1,0.6147896963023187
+hematologic cancer,acute myeloid leukemia with minimal differentiation,1,1,0.7175409374272803
+hematologic cancer,intravascular large B-cell lymphoma,1,1,0.6147896963023187
+hematologic cancer,chronic leukemia,1,1,0.8289753724536334
+hematologic cancer,head and neck cancer,1,1,0.6208112874779541
+hematologic cancer,leukemia,1,1,0.905446293494705
+hematologic cancer,breast cancer,1,1,0.6616541353383459
+hematologic cancer,cardiovascular cancer,1,1,0.6616541353383459
+hematologic cancer,essential thrombocythemia,1,1,0.6964329060372431
+hematologic cancer,bone marrow cancer,1,1,0.8473541383989145
+hematologic cancer,thoracic cancer,1,1,0.6616541353383459
+hematologic cancer,chest wall lymphoma,1,1,0.6360946745562129
+hematologic cancer,mediastinal malignant lymphoma,1,1,0.6058670707945443
+hematologic cancer,B-cell lymphoma,1,1,0.6570791265555295
+hematologic cancer,Hodgkin's lymphoma,1,1,0.6980543776502869
+hematologic cancer,acute myeloid leukemia,1,1,0.7672608509858984
+hematologic cancer,multiple myeloma,1,1,0.7047343238478974
+splenic infarction,splenic sequestration,1,1,0.7500999600159937
+splenic infarction,splenic disease,1,1,0.8710276516714817
+splenic infarction,immune system disease,1,1,0.6303926320891904
+splenic infarction,lymphatic system disease,1,1,0.7514361467079099
+splenic infarction,lymph node disease,1,1,0.6388774246801486
+malignant histiocytic disease,splenic disease,1,1,0.6328157784305498
+malignant histiocytic disease,immune system disease,1,1,0.6230845279288184
+malignant histiocytic disease,lymphatic system disease,1,1,0.7469635627530364
+malignant histiocytic disease,lymph node disease,1,1,0.6328157784305498
+kidney hemangiopericytoma,urinary bladder cancer,1,1,0.6648115355426258
+kidney hemangiopericytoma,renal cell carcinoma,1,1,0.7022230795196991
+kidney hemangiopericytoma,childhood kidney cell carcinoma,1,1,0.6606515092667286
+benign mesothelioma,leiomyoma,1,1,0.7188484030589295
+benign mesothelioma,squamous cell papilloma,1,1,0.6197305519339419
+benign mesothelioma,squamous cell neoplasm,1,1,0.7188484030589295
+dermatitis,erythema multiforme,1,1,0.6011131725417439
+dermatitis,epidermal nevus,1,1,0.7216035634743876
+dermatitis,mediastinal lipomatosis,1,1,0.6249464209172738
+dermatitis,acneiform dermatitis,1,1,0.8660522931847405
+dermatitis,acne,1,1,0.6312684365781711
+dermatitis,subcorneal pustular dermatosis,1,1,0.7659565615378214
+dermatitis,lichen planus,1,1,0.6249464209172738
+gastric hemangioma,gastrointestinal adenoma,1,1,0.6156901688182721
+gastric hemangioma,venous hemangioma,1,1,0.7388133254484526
+gastric hemangioma,perineural angioma,1,1,0.6370899201087881
+Mycobacterium avium complex disease,early yaws,1,1,0.6130030959752323
+Mycobacterium avium complex disease,typhus,1,1,0.7113163972286375
+Mycobacterium avium complex disease,tuberculosis,1,1,0.7113163972286375
+Mycobacterium avium complex disease,multidrug-resistant tuberculosis,1,1,0.6130030959752323
+Mycobacterium avium complex disease,secondary syphilis,1,1,0.6130030959752323
+rectosigmoid cancer,small intestine cancer,1,1,0.6152639616637363
+rectosigmoid cancer,colon cancer,1,1,0.8364415095103739
+rectosigmoid cancer,colon adenocarcinoma,1,1,0.6123578164530488
+rectosigmoid cancer,colorectal cancer,1,1,0.7406134924243831
+idiopathic interstitial pneumonia,cryptogenic organizing pneumonia,1,1,0.8832090054265768
+idiopathic interstitial pneumonia,respiratory failure,1,1,0.6586564718732933
+idiopathic interstitial pneumonia,bronchopulmonary dysplasia,1,1,0.6586564718732933
+idiopathic interstitial pneumonia,pulmonary alveolar proteinosis,1,1,0.6586564718732933
+idiopathic interstitial pneumonia,obstructive lung disease,1,1,0.6586564718732933
+idiopathic interstitial pneumonia,bronchiolitis,1,1,0.600127959053103
+idiopathic interstitial pneumonia,aspiration pneumonitis,1,1,0.7619773021555336
+idiopathic interstitial pneumonia,pulmonary immaturity,1,1,0.6586564718732933
+idiopathic interstitial pneumonia,pneumonia,1,1,0.8780915970976048
+idiopathic interstitial pneumonia,lung disease,1,1,0.773678281161986
+idiopathic interstitial pneumonia,bacterial pneumonia,1,1,0.654984273701778
+polycythemia due to hypoxia,stress polycythemia,1,1,0.7560309157623546
+stress polycythemia,polycythemia due to hypoxia,1,1,0.7560309157623546
+asthma,T2-high asthma,1,1,0.7847565548803822
+asthma,bronchial disease,1,1,0.8710276516714817
+asthma,respiratory system disease,1,1,0.6303926320891904
+asthma,bronchiolitis,1,1,0.6819338422391859
+asthma,bronchitis,1,1,0.7500999600159937
+asthma,lung disease,1,1,0.6388774246801486
+asthma,bronchiectasis,1,1,0.7500999600159937
+thyroid adenoma,gastrointestinal adenoma,1,1,0.6033519553072626
+acute pancreatitis,pancreatitis,1,1,0.8660522931847405
+immune system disease,co-trimoxazole allergy,1,1,0.6230845279288184
+immune system disease,sodium aurothiomalate allergy,1,1,0.6230845279288184
+immune system disease,hypersensitivity reaction disease,1,1,0.8239436619718311
+immune system disease,sarcoidosis,1,1,0.6170266197890507
+immune system disease,splenic sequestration,1,1,0.6303926320891904
+immune system disease,respiratory system disease,1,1,0.6153846153846154
+immune system disease,musculoskeletal system disease,1,1,0.6153846153846154
+immune system disease,urinary system disease,1,1,0.6153846153846154
+immune system disease,splenic disease,1,1,0.716624685138539
+immune system disease,splenic infarction,1,1,0.6303926320891904
+immune system disease,malignant histiocytic disease,1,1,0.6230845279288184
+immune system disease,autoimmune disease,1,1,0.8239436619718311
+immune system disease,lymphatic system disease,1,1,0.8287671232876712
+immune system disease,hypersensitivity vasculitis,1,1,0.6170266197890507
+immune system disease,lymph node disease,1,1,0.716624685138539
+glomerulonephritis,glomerulosclerosis,1,1,0.8745685156939873
+glomerulonephritis,interstitial nephritis,1,1,0.7418422139611731
+glomerulonephritis,nephritis,1,1,0.8660522931847405
+glomerulonephritis,urinary system disease,1,1,0.6230845279288184
+glomerulonephritis,kidney disease,1,1,0.7469635627530364
+glomerulonephritis,proteinuria,1,1,0.6249464209172738
+bronchiolitis,respiratory failure,1,1,0.6819338422391859
+bronchiolitis,bronchopulmonary dysplasia,1,1,0.6819338422391859
+bronchiolitis,bronchial disease,1,1,0.7895622895622895
+bronchiolitis,pulmonary alveolar proteinosis,1,1,0.6819338422391859
+bronchiolitis,obstructive lung disease,1,1,0.6819338422391859
+bronchiolitis,idiopathic interstitial pneumonia,1,1,0.600127959053103
+bronchiolitis,asthma,1,1,0.6819338422391859
+bronchiolitis,chronic obstructive pulmonary disease,1,1,0.600127959053103
+bronchiolitis,aspiration pneumonitis,1,1,0.600127959053103
+bronchiolitis,pulmonary immaturity,1,1,0.6819338422391859
+bronchiolitis,pneumonia,1,1,0.6819338422391859
+bronchiolitis,bronchitis,1,1,0.6819338422391859
+bronchiolitis,lung disease,1,1,0.7895622895622895
+bronchiolitis,bronchiectasis,1,1,0.6819338422391859
+inner ear disease,sensorineural hearing loss,1,1,0.8822265772216779
+inner ear disease,acute infection of pinna,1,1,0.6011605301040324
+inner ear disease,vestibular disease,1,1,0.8844048235555226
+pulmonary tuberculosis,tuberculosis,1,1,0.6579290133507001
+pulmonary tuberculosis,lung disease,1,1,0.6676684593483074
+pulmonary tuberculosis,bacterial pneumonia,1,1,0.6505248720789155
+adenocarcinoma,squamous cell carcinoma,1,1,0.7723132969034608
+adenocarcinoma,neuroendocrine carcinoma,1,1,0.7617232176896683
+adenocarcinoma,melanoma,1,1,0.6561886051080551
+adenocarcinoma,prostate adenocarcinoma,1,1,0.6031906477981893
+adenocarcinoma,sarcomatoid carcinoma,1,1,0.7617232176896683
+adenocarcinoma,pancreatic adenocarcinoma,1,1,0.6277123372597644
+adenocarcinoma,papillary squamous carcinoma,1,1,0.6855910887531442
+adenocarcinoma,large cell carcinoma,1,1,0.7617232176896683
+adenocarcinoma,adenosquamous carcinoma,1,1,0.6987951807228915
+adenocarcinoma,myoepithelial carcinoma,1,1,0.7617232176896683
+adenocarcinoma,esophagus adenocarcinoma,1,1,0.6316152784169351
+adenocarcinoma,pleomorphic carcinoma,1,1,0.6741639979146498
+adenocarcinoma,inflammatory breast carcinoma,1,1,0.6373237442663797
+invasive ductal carcinoma,breast cancer,1,1,0.7672608509858984
+lobular neoplasia,in situ carcinoma,1,1,0.6299638989169676
+substance abuse,opioid abuse,1,1,0.841611758743031
+substance abuse,alcohol use disorder,1,1,0.841611758743031
+substance abuse,substance-related disorder,1,1,0.8145400593471809
+substance abuse,phencyclidine abuse,1,1,0.841611758743031
+acute kidney failure,nephritis,1,1,0.6249464209172738
+acute kidney failure,urinary system disease,1,1,0.6230845279288184
+acute kidney failure,kidney disease,1,1,0.7469635627530364
+acute kidney failure,proteinuria,1,1,0.6249464209172738
+acute kidney failure,end stage renal disease,1,1,0.6487918439431646
+acute kidney failure,chronic kidney disease,1,1,0.7418422139611731
+substance-related disorder,alcohol dependence,1,1,0.6897407611693327
+substance-related disorder,nicotine dependence,1,1,0.6897407611693327
+substance-related disorder,opioid abuse,1,1,0.6897407611693327
+substance-related disorder,alcohol use disorder,1,1,0.6897407611693327
+substance-related disorder,substance abuse,1,1,0.8145400593471809
+substance-related disorder,phencyclidine abuse,1,1,0.6897407611693327
+substance-related disorder,drug dependence,1,1,0.6897407611693327
+submucosal invasive colon adenocarcinoma,colon cancer,1,1,0.7571816747874073
+submucosal invasive colon adenocarcinoma,colon adenocarcinoma,1,1,0.9429715053887456
+submucosal invasive colon adenocarcinoma,colorectal cancer,1,1,0.660969574570034
+malignant astrocytoma,brain germinoma,1,1,0.6844572664983772
+malignant astrocytoma,central nervous system sarcoma,1,1,0.7637051039697543
+malignant astrocytoma,spinal cord oligodendroglioma,1,1,0.7090357621499613
+malignant astrocytoma,malignant leptomeningeal neoplasm,1,1,0.6873082550620664
+interstitial lung disease,pneumoconiosis,1,1,0.9112468048849756
+interstitial lung disease,respiratory failure,1,1,0.6455654467523905
+interstitial lung disease,ventilation pneumonitis,1,1,0.7617141085912074
+interstitial lung disease,bronchopulmonary dysplasia,1,1,0.6455654467523905
+interstitial lung disease,pulmonary alveolar proteinosis,1,1,0.6455654467523905
+interstitial lung disease,pulmonary systemic sclerosis,1,1,0.6811586719677802
+interstitial lung disease,malt worker's lung,1,1,0.7617141085912074
+interstitial lung disease,obstructive lung disease,1,1,0.6455654467523905
+interstitial lung disease,pulmonary fibrosis,1,1,0.9112468048849756
+interstitial lung disease,pulmonary immaturity,1,1,0.6455654467523905
+interstitial lung disease,pneumonia,1,1,0.6455654467523905
+interstitial lung disease,connective tissue disease,1,1,0.6699463327370304
+interstitial lung disease,lung disease,1,1,0.7419627749576988
+chronic obstructive pulmonary disease,pulmonary interstitial emphysema,1,1,0.7928677269875124
+chronic obstructive pulmonary disease,respiratory failure,1,1,0.6586564718732933
+chronic obstructive pulmonary disease,bronchopulmonary dysplasia,1,1,0.6586564718732933
+chronic obstructive pulmonary disease,pulmonary alveolar proteinosis,1,1,0.6586564718732933
+chronic obstructive pulmonary disease,obstructive lung disease,1,1,0.8780915970976048
+chronic obstructive pulmonary disease,bronchiolitis,1,1,0.600127959053103
+chronic obstructive pulmonary disease,pulmonary immaturity,1,1,0.6586564718732933
+chronic obstructive pulmonary disease,pneumonia,1,1,0.6586564718732933
+chronic obstructive pulmonary disease,lung disease,1,1,0.773678281161986
+chronic obstructive pulmonary disease,pulmonary emphysema,1,1,0.8832090054265768
+stenosis of lacrimal sac,ptosis,1,1,0.6639010524698472
+stenosis of lacrimal sac,glaucoma,1,1,0.6639010524698472
+small cell sarcoma,melanoma,1,1,0.6388774246801486
+skin squamous cell carcinoma,squamous cell carcinoma,1,1,0.6316152784169351
+skin squamous cell carcinoma,basal cell carcinoma,1,1,0.8232251808153864
+skin squamous cell carcinoma,Merkel cell carcinoma,1,1,0.8160141301148072
+skin squamous cell carcinoma,skin cancer,1,1,0.742951725347481
+skin squamous cell carcinoma,clear cell basal cell carcinoma,1,1,0.7646502598261131
+skin squamous cell carcinoma,malignant dermis tumor,1,1,0.6742992499013027
+skin squamous cell carcinoma,skin melanoma,1,1,0.6798390047566777
+squamous cell neoplasm,leiomyoma,1,1,0.7334754797441365
+squamous cell neoplasm,squamous cell papilloma,1,1,0.6388774246801486
+squamous cell neoplasm,benign mesothelioma,1,1,0.7188484030589295
+spinal cord oligodendroglioma,central nervous system sarcoma,1,1,0.6208647809832828
+spinal cord oligodendroglioma,malignant astrocytoma,1,1,0.7090357621499613
+C-P angle neurinoma,medulloblastoma non-WNT/non-SHH,1,1,0.66357893915801
+C-P angle neurinoma,brain germinoma,1,1,0.6340091949053732
+vascular myelopathy,hemiplegia,1,1,0.6312684365781711
+vascular myelopathy,subdural empyema,1,1,0.6312684365781711
+vascular myelopathy,demyelinating disease,1,1,0.6312684365781711
+vascular myelopathy,myelitis,1,1,0.7500999600159937
+vascular myelopathy,brain disease,1,1,0.6388774246801486
+demyelinating disease,traumatic brain injury,1,1,0.6312684365781711
+demyelinating disease,complex cortical dysplasia with other brain malformations,1,1,0.6312684365781711
+demyelinating disease,hemiplegia,1,1,0.7216035634743876
+demyelinating disease,subdural empyema,1,1,0.7216035634743876
+demyelinating disease,Huntington's disease,1,1,0.6249464209172738
+demyelinating disease,epilepsy,1,1,0.6312684365781711
+demyelinating disease,cerebral palsy,1,1,0.6312684365781711
+demyelinating disease,multiple sclerosis,1,1,0.6286370597243491
+demyelinating disease,vascular myelopathy,1,1,0.6312684365781711
+demyelinating disease,myelitis,1,1,0.6312684365781711
+demyelinating disease,plexopathy,1,1,0.6249464209172738
+demyelinating disease,brain edema,1,1,0.6312684365781711
+demyelinating disease,movement disease,1,1,0.6312684365781711
+demyelinating disease,central pontine myelinolysis,1,1,0.8660522931847405
+demyelinating disease,primary cerebellar degeneration,1,1,0.6249464209172738
+demyelinating disease,brain disease,1,1,0.7276688453159041
+demyelinating disease,encephalitis,1,1,0.6312684365781711
+jejunal somatostatinoma,small intestine cancer,1,1,0.85844498354187
+jejunal somatostatinoma,colon cancer,1,1,0.6050394738013226
+jejunal somatostatinoma,colorectal cancer,1,1,0.6586916427106839
+myelitis,hemiplegia,1,1,0.6312684365781711
+myelitis,subdural empyema,1,1,0.6312684365781711
+myelitis,vascular myelopathy,1,1,0.7500999600159937
+myelitis,demyelinating disease,1,1,0.6312684365781711
+myelitis,brain disease,1,1,0.6388774246801486
+tracheal disease,tracheal calcification,1,1,0.8710276516714817
+tracheal disease,respiratory system disease,1,1,0.716624685138539
+tracheal disease,nasal cavity disease,1,1,0.6461787302871007
+aspiration pneumonitis,cryptogenic organizing pneumonia,1,1,0.672985215194415
+aspiration pneumonitis,respiratory failure,1,1,0.6586564718732933
+aspiration pneumonitis,bronchopulmonary dysplasia,1,1,0.6586564718732933
+aspiration pneumonitis,pulmonary alveolar proteinosis,1,1,0.6586564718732933
+aspiration pneumonitis,obstructive lung disease,1,1,0.6586564718732933
+aspiration pneumonitis,idiopathic interstitial pneumonia,1,1,0.7619773021555336
+aspiration pneumonitis,bronchiolitis,1,1,0.600127959053103
+aspiration pneumonitis,pulmonary immaturity,1,1,0.6586564718732933
+aspiration pneumonitis,pneumonia,1,1,0.8780915970976048
+aspiration pneumonitis,lung disease,1,1,0.773678281161986
+aspiration pneumonitis,bacterial pneumonia,1,1,0.654984273701778
+ischemia,artery disease,1,1,0.7216035634743876
+ischemia,peripheral artery disease,1,1,0.6249464209172738
+ischemia,limb ischemia,1,1,0.8660522931847405
+ischemia,thrombosis,1,1,0.7216035634743876
+ischemia,Raynaud disease,1,1,0.6249464209172738
+ischemia,hypertension,1,1,0.6249464209172738
+ischemia,vascular disease,1,1,0.8536299765807963
+ischemia,brain ischemia,1,1,0.6579290133507001
+ischemia,renal artery disease,1,1,0.6492985971943889
+ischemia,coronary artery disease,1,1,0.6249464209172738
+ischemia,peripheral vascular disease,1,1,0.7216035634743876
+ischemia,Shwartzman phenomenon,1,1,0.6249464209172738
+ischemia,vasculitis,1,1,0.7216035634743876
+thymoma,lymphoma,1,1,0.6081563615861681
+thymoma,thymic carcinoma,1,1,0.8210421175295488
+thymoma,thoracic cancer,1,1,0.6373564512497185
+thymoma,chest wall lymphoma,1,1,0.6680753653812291
+thymoma,mediastinal malignant lymphoma,1,1,0.6277244986922407
+thymoma,reticulosarcoma,1,1,0.6527925249522192
+thymic carcinoma,thymoma,1,1,0.8210421175295488
+thymic carcinoma,chest wall lymphoma,1,1,0.6190243106542666
+bipolar disorder,cognitive disorder,1,1,0.6897407611693327
+bipolar disorder,depressive disorder,1,1,0.7025226082817706
+bipolar disorder,mood disorder,1,1,0.841611758743031
+mood disorder,subjective cognitive decline,1,1,0.6612466124661247
+mood disorder,mild cognitive impairment,1,1,0.6612466124661247
+mood disorder,dementia,1,1,0.6612466124661247
+mood disorder,cognitive disorder,1,1,0.8145400593471809
+mood disorder,depressive disorder,1,1,0.841611758743031
+mood disorder,anxiety disorder,1,1,0.6612466124661247
+mood disorder,psychotic disorder,1,1,0.6612466124661247
+mood disorder,bipolar disorder,1,1,0.841611758743031
+frontal lobe epilepsy,epilepsy,1,1,0.7847565548803822
+frontal lobe epilepsy,brain disease,1,1,0.699249009986905
+peripheral osteosarcoma,bone cancer,1,1,0.7457178973311694
+peripheral osteosarcoma,synchronous multifocal osteogenic sarcoma,1,1,0.7027092809989184
+coronary artery disease,artery disease,1,1,0.8660522931847405
+coronary artery disease,peripheral artery disease,1,1,0.7418422139611731
+coronary artery disease,thrombosis,1,1,0.6249464209172738
+coronary artery disease,nonobstructive coronary artery disease,1,1,0.8745685156939873
+coronary artery disease,hypertension,1,1,0.7418422139611731
+coronary artery disease,vascular disease,1,1,0.7469635627530364
+coronary artery disease,arteriosclerotic cardiovascular disease,1,1,0.6487918439431646
+coronary artery disease,renal artery disease,1,1,0.7580332946186605
+coronary artery disease,ischemia,1,1,0.6249464209172738
+coronary artery disease,peripheral vascular disease,1,1,0.6249464209172738
+coronary artery disease,aortic aneurysm,1,1,0.6586564718732933
+coronary artery disease,myocardial infarction,1,1,0.8745685156939873
+coronary artery disease,inferior myocardial infarction,1,1,0.7792143563656918
+coronary artery disease,pulmonary hypertension,1,1,0.6487918439431646
+coronary artery disease,vasculitis,1,1,0.6249464209172738
+coronary artery disease,acute myocardial infarction,1,1,0.7792143563656918
+peripheral vascular disease,artery disease,1,1,0.7216035634743876
+peripheral vascular disease,peripheral artery disease,1,1,0.6249464209172738
+peripheral vascular disease,limb ischemia,1,1,0.6249464209172738
+peripheral vascular disease,thrombosis,1,1,0.7216035634743876
+peripheral vascular disease,Raynaud disease,1,1,0.8660522931847405
+peripheral vascular disease,hypertension,1,1,0.6249464209172738
+peripheral vascular disease,vascular disease,1,1,0.8536299765807963
+peripheral vascular disease,renal artery disease,1,1,0.6492985971943889
+peripheral vascular disease,ischemia,1,1,0.7216035634743876
+peripheral vascular disease,coronary artery disease,1,1,0.6249464209172738
+peripheral vascular disease,Shwartzman phenomenon,1,1,0.6249464209172738
+peripheral vascular disease,vasculitis,1,1,0.7216035634743876
+carotid artery thrombosis,stroke,1,1,0.6249464209172739
+carotid artery thrombosis,vertebral artery occlusion,1,1,0.6429983742695198
+carotid artery thrombosis,carotid stenosis,1,1,0.7500999600159937
+carotid artery thrombosis,intracranial arterial disease,1,1,0.6249464209172739
+carotid artery thrombosis,cerebral arterial disease,1,1,0.6542111758947952
+carotid artery thrombosis,intracranial thrombosis,1,1,0.8286285791342654
+carotid artery thrombosis,intracranial embolism,1,1,0.6249464209172739
+carotid artery thrombosis,occlusion precerebral artery,1,1,0.6249464209172739
+carotid artery thrombosis,cerebrovascular disease,1,1,0.7017763499787406
+vestibular disease,sensorineural hearing loss,1,1,0.7732056027287902
+vestibular disease,inner ear disease,1,1,0.8844048235555226
+inclusion body myositis,dermatomyositis,1,1,0.6742542695417137
+inclusion body myositis,myositis,1,1,0.8806395428780958
+inclusion body myositis,muscular atrophy,1,1,0.665790720058668
+systemic mastocytosis,cutaneous mastocytosis,1,1,0.6347264695888549
+systemic mastocytosis,leukopenia,1,1,0.6249464209172738
+cerebral arterial disease,artery disease,1,1,0.60840108401084
+cerebral arterial disease,stroke,1,1,0.7113163972286375
+cerebral arterial disease,ischemic stroke,1,1,0.6446844798180784
+cerebral arterial disease,vertebral artery occlusion,1,1,0.7352567421283005
+cerebral arterial disease,carotid stenosis,1,1,0.7321045863694813
+cerebral arterial disease,intracranial arterial disease,1,1,0.8556581986143187
+cerebral arterial disease,brain ischemia,1,1,0.6684350132625995
+cerebral arterial disease,carotid artery thrombosis,1,1,0.6542111758947952
+cerebral arterial disease,intracranial thrombosis,1,1,0.6684350132625995
+cerebral arterial disease,intracranial embolism,1,1,0.7113163972286375
+cerebral arterial disease,occlusion precerebral artery,1,1,0.7113163972286375
+cerebral arterial disease,cerebrovascular disease,1,1,0.7933095904350038
+duodenal obstruction,inflammatory bowel disease,1,1,0.6312684365781711
+duodenal obstruction,protein-losing enteropathy,1,1,0.6312684365781711
+duodenal obstruction,intestinal perforation,1,1,0.6312684365781711
+duodenal obstruction,duodenogastric reflux,1,1,0.7500999600159937
+duodenal obstruction,chronic intestinal vascular insufficiency,1,1,0.6312684365781711
+duodenal obstruction,bowel dysfunction,1,1,0.6312684365781711
+placental site trophoblastic tumor,endometrial cancer,1,1,0.6923667171033333
+placental site trophoblastic tumor,cervical cancer,1,1,0.6860183661283802
+placental site trophoblastic tumor,choriocarcinoma of the testis,1,1,0.8572196158773615
+aortic aneurysm,artery disease,1,1,0.7727639977377394
+aortic aneurysm,peripheral artery disease,1,1,0.6586564718732933
+aortic aneurysm,hypertension,1,1,0.6586564718732933
+aortic aneurysm,vascular disease,1,1,0.6776443730447281
+aortic aneurysm,renal artery disease,1,1,0.6789462097306819
+aortic aneurysm,coronary artery disease,1,1,0.6586564718732933
+aortic aneurysm,abdominal aortic aneurysm,1,1,0.8862693433100898
+necrosis of pituitary,pituitary apoplexy,1,1,0.7659565615378214
+cutaneous mastocytosis,systemic mastocytosis,1,1,0.6347264695888549
+lung benign neoplasm,lung clear cell-sugar-tumor,1,1,0.927544632506376
+lung benign neoplasm,hilar lung neoplasm,1,1,0.927544632506376
+lung benign neoplasm,endobronchial leiomyoma,1,1,0.7980251346499104
+lung benign neoplasm,lung disease,1,1,0.6428571428571429
+plexopathy,multisystem proteinopathy,1,1,0.6586564718732933
+plexopathy,Alzheimer's disease,1,1,0.6487918439431646
+plexopathy,hemiplegia,1,1,0.6249464209172738
+plexopathy,subdural empyema,1,1,0.6249464209172738
+plexopathy,Huntington's disease,1,1,0.7418422139611731
+plexopathy,Parkinson's disease,1,1,0.6487918439431646
+plexopathy,demyelinating disease,1,1,0.6249464209172738
+plexopathy,primary cerebellar degeneration,1,1,0.7418422139611731
+plexopathy,brain disease,1,1,0.6328157784305498
+pulmonary fibrosis,pneumoconiosis,1,1,0.820247339660627
+pulmonary fibrosis,ventilation pneumonitis,1,1,0.677326644719653
+pulmonary fibrosis,pulmonary systemic sclerosis,1,1,0.6122107902021204
+pulmonary fibrosis,malt worker's lung,1,1,0.677326644719653
+pulmonary fibrosis,interstitial lung disease,1,1,0.9112468048849756
+pulmonary fibrosis,connective tissue disease,1,1,0.618138858596874
+pulmonary fibrosis,lung disease,1,1,0.6830985915492958
+pleural empyema,bronchial disease,1,1,0.6388774246801486
+pleural empyema,respiratory system disease,1,1,0.6303926320891904
+pleural empyema,pneumothorax,1,1,0.7500999600159937
+pleural empyema,lung disease,1,1,0.6388774246801486
+Shwartzman phenomenon,artery disease,1,1,0.6249464209172738
+Shwartzman phenomenon,thrombosis,1,1,0.6249464209172738
+Shwartzman phenomenon,vascular disease,1,1,0.7469635627530364
+Shwartzman phenomenon,ischemia,1,1,0.6249464209172738
+Shwartzman phenomenon,peripheral vascular disease,1,1,0.6249464209172738
+Shwartzman phenomenon,vasculitis,1,1,0.8660522931847405
+placental insufficiency,adhesions of uterus,1,1,0.6639010524698472
+bronchus carcinoma,nasopharynx carcinoma,1,1,0.6058732612055642
+mediastinal lipomatosis,epidermal nevus,1,1,0.6249464209172738
+mediastinal lipomatosis,dermatitis,1,1,0.6249464209172738
+adrenal carcinoma,extra-adrenal pheochromocytoma,1,1,0.640000755408251
+adrenal carcinoma,thyroid gland mixed medullary and follicular cell-derived carcinoma,1,1,0.6334884934963241
+Merkel cell carcinoma,basal cell carcinoma,1,1,0.8649466269069537
+Merkel cell carcinoma,skin squamous cell carcinoma,1,1,0.8160141301148072
+Merkel cell carcinoma,skin cancer,1,1,0.7823984526112188
+Merkel cell carcinoma,clear cell basal cell carcinoma,1,1,0.8037289260944075
+Merkel cell carcinoma,malignant dermis tumor,1,1,0.7085476943408694
+Merkel cell carcinoma,skin melanoma,1,1,0.7117936224822726
+papillary thyroid carcinoma,thyroid gland mixed medullary and follicular cell-derived carcinoma,1,1,0.6842634414746576
+tuberculosis,early yaws,1,1,0.6130030959752323
+tuberculosis,typhus,1,1,0.7113163972286375
+tuberculosis,Mycobacterium avium complex disease,1,1,0.7113163972286375
+tuberculosis,pulmonary tuberculosis,1,1,0.6579290133507001
+tuberculosis,multidrug-resistant tuberculosis,1,1,0.8617868199911544
+tuberculosis,gastrointestinal tuberculosis,1,1,0.6821910271586002
+tuberculosis,secondary syphilis,1,1,0.6130030959752323
+bladder urothelial carcinoma,urinary bladder cancer,1,1,0.742951725347481
+multidrug-resistant tuberculosis,typhus,1,1,0.6130030959752323
+multidrug-resistant tuberculosis,Mycobacterium avium complex disease,1,1,0.6130030959752323
+multidrug-resistant tuberculosis,tuberculosis,1,1,0.8617868199911544
+sarcomatoid carcinoma,squamous cell carcinoma,1,1,0.7617232176896683
+sarcomatoid carcinoma,neuroendocrine carcinoma,1,1,0.7500999600159937
+sarcomatoid carcinoma,melanoma,1,1,0.6388774246801486
+sarcomatoid carcinoma,adenocarcinoma,1,1,0.7617232176896683
+sarcomatoid carcinoma,papillary squamous carcinoma,1,1,0.6711762495302519
+sarcomatoid carcinoma,large cell carcinoma,1,1,0.7500999600159937
+sarcomatoid carcinoma,adenosquamous carcinoma,1,1,0.6855910887531441
+sarcomatoid carcinoma,myoepithelial carcinoma,1,1,0.7500999600159937
+sarcomatoid carcinoma,pleomorphic carcinoma,1,1,0.8780915970976048
+fungal gastritis,herpetic gastritis,1,1,0.6072212011620323
+gastrointestinal tuberculosis,tuberculosis,1,1,0.6821910271586002
+skeletal muscle cancer,muscle cancer,1,1,0.9227059114518922
+skeletal muscle cancer,inflammatory leiomyosarcoma,1,1,0.7226608051350321
+muscle cancer,bone cancer,1,1,0.6365105008077545
+muscle cancer,skeletal muscle cancer,1,1,0.9227059114518922
+muscle cancer,inflammatory leiomyosarcoma,1,1,0.8033841139521212
+muscle cancer,well-differentiated liposarcoma,1,1,0.6172088467288757
+muscle cancer,Kaposi's sarcoma,1,1,0.6004951609273014
+duodenogastric reflux,inflammatory bowel disease,1,1,0.6312684365781711
+duodenogastric reflux,protein-losing enteropathy,1,1,0.6312684365781711
+duodenogastric reflux,intestinal perforation,1,1,0.6312684365781711
+duodenogastric reflux,duodenal obstruction,1,1,0.7500999600159937
+duodenogastric reflux,chronic intestinal vascular insufficiency,1,1,0.6312684365781711
+duodenogastric reflux,bowel dysfunction,1,1,0.6312684365781711
+pancreatic adenocarcinoma,pancreatic cancer,1,1,0.7007013075373114
+pancreatic adenocarcinoma,adenocarcinoma,1,1,0.6277123372597644
+liver disease,hepatic veno-occlusive disease,1,1,0.6786833855799373
+liver disease,hepatitis C,1,1,0.616543459546616
+liver disease,viral hepatitis,1,1,0.6597096188747732
+liver disease,hepatitis B,1,1,0.616543459546616
+liver disease,drug-induced hepatitis,1,1,0.773678281161986
+liver disease,hepatitis D,1,1,0.616543459546616
+liver disease,granulomatous hepatitis,1,1,0.773678281161986
+liver disease,hepatitis E,1,1,0.616543459546616
+liver disease,liver cirrhosis,1,1,0.8710276516714817
+gastrointestinal adenoma,gastric hemangioma,1,1,0.6156901688182721
+gastrointestinal adenoma,thyroid adenoma,1,1,0.6033519553072626
+gastrointestinal adenoma,squamous papillomatosis,1,1,0.712182061579652
+spinal chordoma,bone cancer,1,1,0.789768527362275
+secondary syphilis,typhus,1,1,0.6130030959752323
+secondary syphilis,Mycobacterium avium complex disease,1,1,0.6130030959752323
+secondary syphilis,tuberculosis,1,1,0.6130030959752323
+secondary syphilis,cardiovascular syphilis,1,1,0.6404799079628564
+skin cancer,basal cell carcinoma,1,1,0.7919204222492895
+skin cancer,skin squamous cell carcinoma,1,1,0.742951725347481
+skin cancer,Merkel cell carcinoma,1,1,0.7823984526112188
+skin cancer,clear cell basal cell carcinoma,1,1,0.75361890555665
+skin cancer,malignant dermis tumor,1,1,0.9227059114518922
+skin cancer,skin melanoma,1,1,0.826822620940268
+autoimmune disease,hypersensitivity reaction disease,1,1,0.6753246753246753
+autoimmune disease,Graves' disease,1,1,0.682952182952183
+autoimmune disease,autoimmune hepatitis,1,1,0.682952182952183
+autoimmune disease,immune system disease,1,1,0.8239436619718311
+autoimmune disease,myasthenia gravis,1,1,0.682952182952183
+autoimmune disease,lymphatic system disease,1,1,0.6835443037974683
+autoimmune disease,autoimmune thrombocytopenic purpura,1,1,0.6561908197312653
+scleroderma,limited scleroderma,1,1,0.7792143563656918
+scleroderma,pulmonary systemic sclerosis,1,1,0.6448476403949839
+scleroderma,musculoskeletal system disease,1,1,0.6230845279288184
+scleroderma,connective tissue disease,1,1,0.7469635627530364
+scleroderma,localized scleroderma,1,1,0.8745685156939873
+intracranial thrombosis,stroke,1,1,0.7600767754318619
+intracranial thrombosis,ischemic stroke,1,1,0.6892093485827946
+intracranial thrombosis,thrombosis,1,1,0.6579290133507001
+intracranial thrombosis,vertebral artery occlusion,1,1,0.6561984297644647
+intracranial thrombosis,carotid stenosis,1,1,0.6645060009115309
+intracranial thrombosis,intracranial arterial disease,1,1,0.7600767754318619
+intracranial thrombosis,brain ischemia,1,1,0.7113163972286375
+intracranial thrombosis,carotid artery thrombosis,1,1,0.8286285791342654
+intracranial thrombosis,cerebral arterial disease,1,1,0.6684350132625995
+intracranial thrombosis,intracranial embolism,1,1,0.7600767754318619
+intracranial thrombosis,occlusion precerebral artery,1,1,0.7600767754318619
+intracranial thrombosis,cerebrovascular disease,1,1,0.8471882640586796
+intracranial thrombosis,brain disease,1,1,0.6243191284844601
+pulmonary immaturity,respiratory failure,1,1,0.7500999600159937
+pulmonary immaturity,bronchopulmonary dysplasia,1,1,0.7500999600159937
+pulmonary immaturity,bronchial disease,1,1,0.6388774246801486
+pulmonary immaturity,pulmonary alveolar proteinosis,1,1,0.7500999600159937
+pulmonary immaturity,respiratory system disease,1,1,0.6303926320891904
+pulmonary immaturity,obstructive lung disease,1,1,0.7500999600159937
+pulmonary immaturity,idiopathic interstitial pneumonia,1,1,0.6586564718732933
+pulmonary immaturity,bronchiolitis,1,1,0.6819338422391859
+pulmonary immaturity,interstitial lung disease,1,1,0.6455654467523905
+pulmonary immaturity,chronic obstructive pulmonary disease,1,1,0.6586564718732933
+pulmonary immaturity,aspiration pneumonitis,1,1,0.6586564718732933
+pulmonary immaturity,pneumonia,1,1,0.7500999600159937
+pulmonary immaturity,lung disease,1,1,0.8710276516714817
+pulmonary immaturity,pulmonary eosinophilia,1,1,0.6030215364834459
+clear cell basal cell carcinoma,basal cell carcinoma,1,1,0.9328263243424504
+clear cell basal cell carcinoma,skin squamous cell carcinoma,1,1,0.7646502598261131
+clear cell basal cell carcinoma,Merkel cell carcinoma,1,1,0.8037289260944075
+clear cell basal cell carcinoma,skin cancer,1,1,0.75361890555665
+clear cell basal cell carcinoma,malignant dermis tumor,1,1,0.6801760791417549
+clear cell basal cell carcinoma,skin melanoma,1,1,0.6786910500852497
+cervical cancer,endometrial cancer,1,1,0.7827933737498552
+cervical cancer,ovarian cancer,1,1,0.6286986222512185
+cervical cancer,placental site trophoblastic tumor,1,1,0.6860183661283802
+cervical cancer,choriocarcinoma of the testis,1,1,0.6860183661283802
+myasthenia gravis,multiple sclerosis,1,1,0.6304044630404463
+myasthenia gravis,autoimmune disease,1,1,0.682952182952183
+stomach diverticulosis,Dieulafoy lesion,1,1,0.7216035634743876
+intracranial embolism,stroke,1,1,0.8160141301148072
+intracranial embolism,ischemic stroke,1,1,0.7403406730369755
+intracranial embolism,vertebral artery occlusion,1,1,0.699951992318771
+intracranial embolism,carotid stenosis,1,1,0.7094123371357518
+intracranial embolism,intracranial arterial disease,1,1,0.8160141301148072
+intracranial embolism,vascular disease,1,1,0.6125046108447069
+intracranial embolism,brain ischemia,1,1,0.7600767754318619
+intracranial embolism,carotid artery thrombosis,1,1,0.6249464209172739
+intracranial embolism,cerebral arterial disease,1,1,0.7113163972286375
+intracranial embolism,intracranial thrombosis,1,1,0.7600767754318619
+intracranial embolism,occlusion precerebral artery,1,1,0.8160141301148072
+intracranial embolism,cerebrovascular disease,1,1,0.908918682599825
+intracranial embolism,brain disease,1,1,0.6786833855799373
+papillary squamous carcinoma,squamous cell carcinoma,1,1,0.887711103126123
+papillary squamous carcinoma,neuroendocrine carcinoma,1,1,0.6711762495302519
+papillary squamous carcinoma,adenocarcinoma,1,1,0.6855910887531442
+papillary squamous carcinoma,sarcomatoid carcinoma,1,1,0.6711762495302519
+papillary squamous carcinoma,large cell carcinoma,1,1,0.6711762495302519
+papillary squamous carcinoma,adenosquamous carcinoma,1,1,0.7876316683656134
+papillary squamous carcinoma,myoepithelial carcinoma,1,1,0.6711762495302519
+papillary squamous carcinoma,head and neck squamous cell carcinoma,1,1,0.6400466336345089
+acneiform dermatitis,epidermal nevus,1,1,0.6249464209172738
+acneiform dermatitis,dermatitis,1,1,0.8660522931847405
+acneiform dermatitis,subcorneal pustular dermatosis,1,1,0.6487918439431646
+hepatitis E,hepatitis C,1,1,0.8219190572252425
+hepatitis E,viral hepatitis,1,1,0.912162845867578
+hepatitis E,hepatitis B,1,1,0.8219190572252425
+hepatitis E,hepatitis D,1,1,0.8219190572252425
+hepatitis E,liver disease,1,1,0.616543459546616
+macular degeneration,preretinal fibrosis,1,1,0.8230021553145547
+renal cell carcinoma,kidney hemangiopericytoma,1,1,0.7022230795196991
+renal cell carcinoma,childhood kidney cell carcinoma,1,1,0.9273748989058592
+childhood kidney cell carcinoma,kidney hemangiopericytoma,1,1,0.6606515092667286
+childhood kidney cell carcinoma,renal cell carcinoma,1,1,0.9273748989058592
+allergic rhinitis,nasal cavity disease,1,1,0.6501462075550517
+hypokalemia,hypophosphatemia,1,1,0.6028864482163928
+hypokalemia,calcium metabolism disease,1,1,0.7025226082817706
+superior vena cava angiosarcoma,cardiovascular cancer,1,1,0.6921807565371922
+large cell carcinoma,squamous cell carcinoma,1,1,0.7617232176896683
+large cell carcinoma,neuroendocrine carcinoma,1,1,0.7500999600159937
+large cell carcinoma,melanoma,1,1,0.6388774246801486
+large cell carcinoma,adenocarcinoma,1,1,0.7617232176896683
+large cell carcinoma,sarcomatoid carcinoma,1,1,0.7500999600159937
+large cell carcinoma,papillary squamous carcinoma,1,1,0.6711762495302519
+large cell carcinoma,adenosquamous carcinoma,1,1,0.6855910887531441
+large cell carcinoma,myoepithelial carcinoma,1,1,0.7500999600159937
+large cell carcinoma,pleomorphic carcinoma,1,1,0.6586564718732933
+Ludwig's angina,connective tissue disease,1,1,0.6428571428571429
+venous hemangioma,gastric hemangioma,1,1,0.7388133254484526
+venous hemangioma,perineural angioma,1,1,0.7170183395779925
+brain edema,La Crosse encephalitis,1,1,0.6357167062012878
+brain edema,traumatic brain injury,1,1,0.7500999600159937
+brain edema,Huntington's disease-like 1,1,1,0.6165370621388314
+brain edema,complex cortical dysplasia with other brain malformations,1,1,0.7500999600159937
+brain edema,Eastern equine encephalitis,1,1,0.6357167062012878
+brain edema,hemiplegia,1,1,0.6312684365781711
+brain edema,subdural empyema,1,1,0.6312684365781711
+brain edema,pseudotumor cerebri,1,1,0.6586564718732933
+brain edema,epilepsy,1,1,0.7500999600159937
+brain edema,cerebral palsy,1,1,0.7500999600159937
+brain edema,demyelinating disease,1,1,0.6312684365781711
+brain edema,movement disease,1,1,0.7500999600159937
+brain edema,cerebrovascular disease,1,1,0.639624539054643
+brain edema,brain disease,1,1,0.8710276516714817
+brain edema,hypertensive encephalopathy,1,1,0.6586564718732933
+brain edema,encephalitis,1,1,0.7500999600159937
+movement disease,La Crosse encephalitis,1,1,0.6357167062012878
+movement disease,traumatic brain injury,1,1,0.7500999600159937
+movement disease,Huntington's disease-like 1,1,1,0.6165370621388314
+movement disease,complex cortical dysplasia with other brain malformations,1,1,0.7500999600159937
+movement disease,Eastern equine encephalitis,1,1,0.6357167062012878
+movement disease,hemiplegia,1,1,0.6312684365781711
+movement disease,subdural empyema,1,1,0.6312684365781711
+movement disease,pseudotumor cerebri,1,1,0.6586564718732933
+movement disease,epilepsy,1,1,0.7500999600159937
+movement disease,cerebral palsy,1,1,0.7500999600159937
+movement disease,demyelinating disease,1,1,0.6312684365781711
+movement disease,brain edema,1,1,0.7500999600159937
+movement disease,cerebrovascular disease,1,1,0.639624539054643
+movement disease,brain disease,1,1,0.8710276516714817
+movement disease,hypertensive encephalopathy,1,1,0.6586564718732933
+movement disease,encephalitis,1,1,0.7500999600159937
+adenosquamous carcinoma,squamous cell carcinoma,1,1,0.8924268502581756
+adenosquamous carcinoma,neuroendocrine carcinoma,1,1,0.6855910887531441
+adenosquamous carcinoma,melanoma,1,1,0.6025878003696858
+adenosquamous carcinoma,adenocarcinoma,1,1,0.6987951807228915
+adenosquamous carcinoma,sarcomatoid carcinoma,1,1,0.6855910887531441
+adenosquamous carcinoma,papillary squamous carcinoma,1,1,0.7876316683656134
+adenosquamous carcinoma,large cell carcinoma,1,1,0.6855910887531441
+adenosquamous carcinoma,myoepithelial carcinoma,1,1,0.6855910887531441
+adenosquamous carcinoma,head and neck squamous cell carcinoma,1,1,0.6524064171122994
+adenosquamous carcinoma,pleomorphic carcinoma,1,1,0.604625008786111
+myoepithelial carcinoma,squamous cell carcinoma,1,1,0.7617232176896683
+myoepithelial carcinoma,neuroendocrine carcinoma,1,1,0.7500999600159937
+myoepithelial carcinoma,melanoma,1,1,0.6388774246801486
+myoepithelial carcinoma,adenocarcinoma,1,1,0.7617232176896683
+myoepithelial carcinoma,sarcomatoid carcinoma,1,1,0.7500999600159937
+myoepithelial carcinoma,papillary squamous carcinoma,1,1,0.6711762495302519
+myoepithelial carcinoma,large cell carcinoma,1,1,0.7500999600159937
+myoepithelial carcinoma,adenosquamous carcinoma,1,1,0.6855910887531441
+myoepithelial carcinoma,pleomorphic carcinoma,1,1,0.6586564718732933
+lymph node tuberculosis,lymph node disease,1,1,0.6467181467181468
+anal carcinoma,small intestine cancer,1,1,0.6085735881654248
+anal carcinoma,colon adenocarcinoma,1,1,0.6020046961680906
+anal carcinoma,colorectal cancer,1,1,0.6433198140606082
+esophagus adenocarcinoma,esophageal carcinoma,1,1,0.8877111031261227
+esophagus adenocarcinoma,adenocarcinoma,1,1,0.6316152784169351
+esophagus adenocarcinoma,esophageal cancer,1,1,0.742951725347481
+esophagus adenocarcinoma,esophagus leiomyosarcoma,1,1,0.6267715210900374
+adenocarcinoma in situ,pulmonary adenocarcinoma in situ,1,1,0.6028864482163928
+adenocarcinoma in situ,in situ carcinoma,1,1,0.841611758743031
+bone marrow cancer,lymphoma,1,1,0.6308871851040526
+bone marrow cancer,"myeloid and lymphoid neoplasms with eosinophilia and abnormalities of PDGFRA, PDGFRB, and FGFR1",1,1,0.8550033510336651
+bone marrow cancer,myeloid and lymphoid neoplasms associated with PDGFRA rearrangement,1,1,0.8004198381372168
+bone marrow cancer,chronic neutrophilic leukemia,1,1,0.6356086023871075
+bone marrow cancer,chronic leukemia,1,1,0.6916963551657991
+bone marrow cancer,leukemia,1,1,0.7612551159618008
+bone marrow cancer,essential thrombocythemia,1,1,0.8004198381372168
+bone marrow cancer,hematologic cancer,1,1,0.8473541383989145
+bone marrow cancer,acute myeloid leukemia,1,1,0.6356086023871075
+bone marrow cancer,multiple myeloma,1,1,0.8123989840683445
+pancreatitis,acute pancreatitis,1,1,0.8660522931847405
+thyroid gland disease,thyrocalcitonin secretion disease,1,1,0.8536299765807963
+thyroid gland disease,Riedel's fibrosing thyroiditis,1,1,0.7469635627530364
+thyroid gland disease,postsurgical hypothyroidism,1,1,0.7469635627530364
+thyroid gland disease,hypothyroidism,1,1,0.8536299765807963
+thyroid gland disease,thyroiditis,1,1,0.8536299765807963
+thyroid gland disease,thyrotoxicosis,1,1,0.8536299765807963
+thyroid gland disease,thyroid malformation,1,1,0.8536299765807963
+adult pineal parenchymal tumor,neuroendocrine tumor,1,1,0.6711762495302519
+esophageal cancer,small intestine cancer,1,1,0.6722730645560228
+esophageal cancer,esophageal carcinoma,1,1,0.8302915646561319
+esophageal cancer,esophagus adenocarcinoma,1,1,0.742951725347481
+esophageal cancer,esophagus leiomyosarcoma,1,1,0.7823984526112188
+esophageal cancer,colorectal cancer,1,1,0.6241838335779725
+phencyclidine abuse,opioid abuse,1,1,0.7025226082817706
+phencyclidine abuse,alcohol use disorder,1,1,0.7025226082817706
+phencyclidine abuse,substance abuse,1,1,0.841611758743031
+phencyclidine abuse,substance-related disorder,1,1,0.6897407611693327
+mixed glioma,melanoma,1,1,0.6388774246801486
+mixed glioma,mixed oligodendroglioma-astrocytoma,1,1,0.8780915970976048
+liver cirrhosis,drug-induced hepatitis,1,1,0.6586564718732933
+liver cirrhosis,granulomatous hepatitis,1,1,0.6586564718732933
+liver cirrhosis,liver disease,1,1,0.8710276516714817
+mixed epithelial stromal tumour,melanoma,1,1,0.6388774246801486
+thoracic cancer,heart cancer,1,1,0.7551390568319226
+thoracic cancer,head and neck cancer,1,1,0.6208112874779541
+thoracic cancer,breast cancer,1,1,0.6616541353383459
+thoracic cancer,cardiovascular cancer,1,1,0.6616541353383459
+thoracic cancer,hematologic cancer,1,1,0.6616541353383459
+thoracic cancer,thymoma,1,1,0.6373564512497185
+thoracic cancer,heart leiomyosarcoma,1,1,0.6820665020749067
+thoracic cancer,chest wall lymphoma,1,1,0.6558185404339251
+thoracic cancer,mediastinal malignant lymphoma,1,1,0.6058670707945443
+urinary tract obstruction,urinary system disease,1,1,0.8239436619718311
+urinary tract obstruction,kidney disease,1,1,0.6835443037974683
+inflammatory leiomyosarcoma,skeletal muscle cancer,1,1,0.7226608051350321
+inflammatory leiomyosarcoma,muscle cancer,1,1,0.8033841139521212
+heart leiomyosarcoma,heart cancer,1,1,0.8781781955212892
+heart leiomyosarcoma,cardiovascular cancer,1,1,0.6820665020749067
+heart leiomyosarcoma,thoracic cancer,1,1,0.6820665020749067
+malignant dermis tumor,basal cell carcinoma,1,1,0.7213070361511035
+malignant dermis tumor,skin squamous cell carcinoma,1,1,0.6742992499013027
+malignant dermis tumor,Merkel cell carcinoma,1,1,0.7085476943408694
+malignant dermis tumor,skin cancer,1,1,0.9227059114518922
+malignant dermis tumor,clear cell basal cell carcinoma,1,1,0.6801760791417549
+malignant dermis tumor,skin melanoma,1,1,0.7557373324244491
+esophagus leiomyosarcoma,esophageal carcinoma,1,1,0.7173273029824636
+esophagus leiomyosarcoma,esophagus adenocarcinoma,1,1,0.6267715210900374
+esophagus leiomyosarcoma,esophageal cancer,1,1,0.7823984526112188
+sleep disorder,sleep apnea,1,1,0.8145400593471809
+schizoaffective disorder,cognitive disorder,1,1,0.6897407611693327
+schizoaffective disorder,psychotic disorder,1,1,0.841611758743031
+schizoaffective disorder,schizophrenia,1,1,0.7025226082817706
+schizophrenia,cognitive disorder,1,1,0.6897407611693327
+schizophrenia,psychotic disorder,1,1,0.841611758743031
+schizophrenia,schizoaffective disorder,1,1,0.7025226082817706
+pulmonary venoocclusive disease,artery disease,1,1,0.6900053664644756
+pulmonary venoocclusive disease,hypertension,1,1,0.7792143563656918
+pulmonary venoocclusive disease,vascular disease,1,1,0.6074000306419488
+pulmonary venoocclusive disease,renal artery disease,1,1,0.6032800436945516
+pulmonary venoocclusive disease,pulmonary hypertension,1,1,0.8806395428780958
+pneumonia,cryptogenic organizing pneumonia,1,1,0.7847565548803822
+pneumonia,respiratory failure,1,1,0.7500999600159937
+pneumonia,bronchopulmonary dysplasia,1,1,0.7500999600159937
+pneumonia,bronchial disease,1,1,0.6388774246801486
+pneumonia,pulmonary alveolar proteinosis,1,1,0.7500999600159937
+pneumonia,respiratory system disease,1,1,0.6303926320891904
+pneumonia,obstructive lung disease,1,1,0.7500999600159937
+pneumonia,idiopathic interstitial pneumonia,1,1,0.8780915970976048
+pneumonia,bronchiolitis,1,1,0.6819338422391859
+pneumonia,interstitial lung disease,1,1,0.6455654467523905
+pneumonia,chronic obstructive pulmonary disease,1,1,0.6586564718732933
+pneumonia,aspiration pneumonitis,1,1,0.8780915970976048
+pneumonia,pulmonary immaturity,1,1,0.7500999600159937
+pneumonia,lung disease,1,1,0.8710276516714817
+pneumonia,bacterial pneumonia,1,1,0.7502783782013492
+pneumonia,pulmonary eosinophilia,1,1,0.6030215364834459
+head and neck squamous cell carcinoma,head and neck cancer,1,1,0.6327904791731914
+head and neck squamous cell carcinoma,squamous cell carcinoma,1,1,0.7281167108753315
+head and neck squamous cell carcinoma,papillary squamous carcinoma,1,1,0.6400466336345089
+head and neck squamous cell carcinoma,adenosquamous carcinoma,1,1,0.6524064171122994
+choriocarcinoma of the testis,endometrial cancer,1,1,0.6923667171033333
+choriocarcinoma of the testis,placental site trophoblastic tumor,1,1,0.8572196158773615
+choriocarcinoma of the testis,cervical cancer,1,1,0.6860183661283802
+kidney disease,glomerulosclerosis,1,1,0.6675241998779105
+kidney disease,paroxysmal nocturnal hemoglobinuria,1,1,0.6675241998779105
+kidney disease,interstitial nephritis,1,1,0.7469635627530364
+kidney disease,nephritis,1,1,0.8536299765807963
+kidney disease,urinary system disease,1,1,0.8287671232876712
+kidney disease,glomerulonephritis,1,1,0.7469635627530364
+kidney disease,acute kidney failure,1,1,0.7469635627530364
+kidney disease,urinary tract obstruction,1,1,0.6835443037974683
+kidney disease,proteinuria,1,1,0.8536299765807963
+kidney disease,end stage renal disease,1,1,0.6675241998779105
+kidney disease,chronic kidney disease,1,1,0.7469635627530364
+pleomorphic carcinoma,squamous cell carcinoma,1,1,0.6741639979146498
+pleomorphic carcinoma,neuroendocrine carcinoma,1,1,0.6586564718732933
+pleomorphic carcinoma,adenocarcinoma,1,1,0.6741639979146498
+pleomorphic carcinoma,sarcomatoid carcinoma,1,1,0.8780915970976048
+pleomorphic carcinoma,large cell carcinoma,1,1,0.6586564718732933
+pleomorphic carcinoma,adenosquamous carcinoma,1,1,0.604625008786111
+pleomorphic carcinoma,myoepithelial carcinoma,1,1,0.6586564718732933
+well-differentiated liposarcoma,bone cancer,1,1,0.7300475116379518
+well-differentiated liposarcoma,muscle cancer,1,1,0.6172088467288757
+well-differentiated liposarcoma,Kaposi's sarcoma,1,1,0.690232384158601
+proteinuria,paroxysmal nocturnal hemoglobinuria,1,1,0.7659565615378214
+proteinuria,interstitial nephritis,1,1,0.6249464209172738
+proteinuria,nephritis,1,1,0.7216035634743876
+proteinuria,urinary system disease,1,1,0.7093023255813954
+proteinuria,glomerulonephritis,1,1,0.6249464209172738
+proteinuria,acute kidney failure,1,1,0.6249464209172738
+proteinuria,kidney disease,1,1,0.8536299765807963
+proteinuria,chronic kidney disease,1,1,0.6249464209172738
+lung clear cell-sugar-tumor,lung benign neoplasm,1,1,0.927544632506376
+lung clear cell-sugar-tumor,hilar lung neoplasm,1,1,0.8505142310452045
+lung clear cell-sugar-tumor,endobronchial leiomyoma,1,1,0.7215583712855662
+lung clear cell-sugar-tumor,lung disease,1,1,0.6069567882316886
+hilar lung neoplasm,lung benign neoplasm,1,1,0.927544632506376
+hilar lung neoplasm,lung clear cell-sugar-tumor,1,1,0.8505142310452045
+hilar lung neoplasm,endobronchial leiomyoma,1,1,0.7215583712855662
+hilar lung neoplasm,lung disease,1,1,0.6069567882316886
+hemolytic anemia,pancytopenia,1,1,0.6249464209172738
+hemolytic anemia,anemia,1,1,0.7469635627530364
+myocardial infarction,artery disease,1,1,0.7659565615378214
+myocardial infarction,peripheral artery disease,1,1,0.6487918439431646
+myocardial infarction,nonobstructive coronary artery disease,1,1,0.7560309157623546
+myocardial infarction,hypertension,1,1,0.6487918439431646
+myocardial infarction,vascular disease,1,1,0.6675241998779105
+myocardial infarction,renal artery disease,1,1,0.6702344162206981
+myocardial infarction,coronary artery disease,1,1,0.8745685156939873
+myocardial infarction,inferior myocardial infarction,1,1,0.8806395428780958
+myocardial infarction,acute myocardial infarction,1,1,0.8806395428780958
+inferior myocardial infarction,artery disease,1,1,0.6900053664644756
+inferior myocardial infarction,nonobstructive coronary artery disease,1,1,0.665790720058668
+inferior myocardial infarction,vascular disease,1,1,0.6074000306419488
+inferior myocardial infarction,renal artery disease,1,1,0.6032800436945516
+inferior myocardial infarction,coronary artery disease,1,1,0.7792143563656918
+inferior myocardial infarction,myocardial infarction,1,1,0.8806395428780958
+inferior myocardial infarction,acute myocardial infarction,1,1,0.7663062173763481
+occlusion precerebral artery,stroke,1,1,0.8160141301148072
+occlusion precerebral artery,ischemic stroke,1,1,0.7403406730369755
+occlusion precerebral artery,vertebral artery occlusion,1,1,0.8499759961593855
+occlusion precerebral artery,carotid stenosis,1,1,0.7094123371357518
+occlusion precerebral artery,intracranial arterial disease,1,1,0.8160141301148072
+occlusion precerebral artery,vascular disease,1,1,0.6125046108447069
+occlusion precerebral artery,brain ischemia,1,1,0.7600767754318619
+occlusion precerebral artery,carotid artery thrombosis,1,1,0.6249464209172739
+occlusion precerebral artery,cerebral arterial disease,1,1,0.7113163972286375
+occlusion precerebral artery,intracranial thrombosis,1,1,0.7600767754318619
+occlusion precerebral artery,intracranial embolism,1,1,0.8160141301148072
+occlusion precerebral artery,cerebrovascular disease,1,1,0.908918682599825
+occlusion precerebral artery,brain disease,1,1,0.6786833855799373
+congestive heart failure,cardiomyopathy,1,1,0.7637051039697543
+congestive heart failure,atrioventricular block,1,1,0.6750835499443001
+congestive heart failure,second-degree atrioventricular block,1,1,0.6064289375411877
+congestive heart failure,left ventricular failure,1,1,0.8839584106943931
+congestive heart failure,atrial fibrillation,1,1,0.6750835499443001
+congestive heart failure,arrhythmogenic biventricular cardiomyopathy,1,1,0.6064289375411877
+congestive heart failure,heart conduction disease,1,1,0.7637051039697543
+congestive heart failure,heart disease,1,1,0.879110251450677
+congestive heart failure,pulmonary valve insufficiency,1,1,0.6165370621388315
+congestive heart failure,myocarditis,1,1,0.6232564659704214
+congestive heart failure,acute pulmonary heart disease,1,1,0.794061653364575
+congestive heart failure,Cor pulmonale,1,1,0.8839584106943931
+congestive heart failure,pulmonary embolism and infarction,1,1,0.7239439271284377
+malignant leptomeningeal neoplasm,brain germinoma,1,1,0.602712744527508
+malignant leptomeningeal neoplasm,central nervous system sarcoma,1,1,0.6873082550620664
+malignant leptomeningeal neoplasm,malignant astrocytoma,1,1,0.6873082550620664
+herpetic gastritis,fungal gastritis,1,1,0.6072212011620323
+bronchitis,bronchial disease,1,1,0.8710276516714817
+bronchitis,respiratory system disease,1,1,0.6303926320891904
+bronchitis,asthma,1,1,0.7500999600159937
+bronchitis,bronchiolitis,1,1,0.6819338422391859
+bronchitis,lung disease,1,1,0.6388774246801486
+bronchitis,bronchiectasis,1,1,0.7500999600159937
+lymphopenia,neutropenia,1,1,0.6487918439431646
+lymphopenia,leukopenia,1,1,0.8660522931847405
+leukopenia,neutropenia,1,1,0.7659565615378214
+leukopenia,systemic mastocytosis,1,1,0.6249464209172738
+leukopenia,lymphopenia,1,1,0.8660522931847405
+inflammatory breast carcinoma,breast cancer,1,1,0.672798157936051
+inflammatory breast carcinoma,adenocarcinoma,1,1,0.6373237442663797
+myositis,dermatomyositis,1,1,0.7649361859547446
+myositis,inclusion body myositis,1,1,0.8806395428780958
+myositis,muscular atrophy,1,1,0.7560309157623546
+central pontine myelinolysis,hemiplegia,1,1,0.6249464209172738
+central pontine myelinolysis,subdural empyema,1,1,0.6249464209172738
+central pontine myelinolysis,demyelinating disease,1,1,0.8660522931847405
+central pontine myelinolysis,brain disease,1,1,0.6328157784305498
+pulmonary hypertension,artery disease,1,1,0.7659565615378214
+pulmonary hypertension,peripheral artery disease,1,1,0.6487918439431646
+pulmonary hypertension,hypertension,1,1,0.8745685156939873
+pulmonary hypertension,vascular disease,1,1,0.6675241998779105
+pulmonary hypertension,renal artery disease,1,1,0.6702344162206981
+pulmonary hypertension,coronary artery disease,1,1,0.6487918439431646
+pulmonary hypertension,pulmonary venoocclusive disease,1,1,0.8806395428780958
+connective tissue disease,bone deterioration disease,1,1,0.6720994237550528
+connective tissue disease,ischemic bone disease,1,1,0.7514361467079099
+connective tissue disease,osteonecrosis,1,1,0.6720994237550528
+connective tissue disease,pneumoconiosis,1,1,0.618138858596874
+connective tissue disease,osteoporosis,1,1,0.6116312749440076
+connective tissue disease,endocrine exophthalmos,1,1,0.6776443730447281
+connective tissue disease,chronic orbital inflammation,1,1,0.6776443730447281
+connective tissue disease,limited scleroderma,1,1,0.6074000306419488
+connective tissue disease,musculoskeletal system disease,1,1,0.8287671232876712
+connective tissue disease,interstitial lung disease,1,1,0.6699463327370304
+connective tissue disease,pulmonary fibrosis,1,1,0.618138858596874
+connective tissue disease,scleroderma,1,1,0.7469635627530364
+connective tissue disease,Ludwig's angina,1,1,0.6428571428571429
+connective tissue disease,septic arthritis,1,1,0.6116312749440076
+connective tissue disease,localized scleroderma,1,1,0.6675241998779105
+connective tissue disease,systemic lupus erythematosus,1,1,0.6343543334493561
+acne,epidermal nevus,1,1,0.6312684365781711
+acne,dermatitis,1,1,0.6312684365781711
+endobronchial leiomyoma,lung benign neoplasm,1,1,0.7980251346499104
+endobronchial leiomyoma,lung clear cell-sugar-tumor,1,1,0.7215583712855662
+endobronchial leiomyoma,hilar lung neoplasm,1,1,0.7215583712855662
+synchronous multifocal osteogenic sarcoma,bone cancer,1,1,0.7688148000781694
+synchronous multifocal osteogenic sarcoma,peripheral osteosarcoma,1,1,0.7027092809989184
+cerebrovascular disease,stroke,1,1,0.908918682599825
+cerebrovascular disease,ischemic stroke,1,1,0.8347435219460604
+cerebrovascular disease,traumatic brain injury,1,1,0.639624539054643
+cerebrovascular disease,complex cortical dysplasia with other brain malformations,1,1,0.639624539054643
+cerebrovascular disease,vertebral artery occlusion,1,1,0.7852460749590318
+cerebrovascular disease,carotid stenosis,1,1,0.7957625756682917
+cerebrovascular disease,intracranial arterial disease,1,1,0.908918682599825
+cerebrovascular disease,vascular disease,1,1,0.6639344262295083
+cerebrovascular disease,epilepsy,1,1,0.639624539054643
+cerebrovascular disease,cerebral palsy,1,1,0.639624539054643
+cerebrovascular disease,brain ischemia,1,1,0.8471882640586796
+cerebrovascular disease,carotid artery thrombosis,1,1,0.7017763499787406
+cerebrovascular disease,cerebral arterial disease,1,1,0.7933095904350038
+cerebrovascular disease,intracranial thrombosis,1,1,0.8471882640586796
+cerebrovascular disease,intracranial embolism,1,1,0.908918682599825
+cerebrovascular disease,brain edema,1,1,0.639624539054643
+cerebrovascular disease,movement disease,1,1,0.639624539054643
+cerebrovascular disease,occlusion precerebral artery,1,1,0.908918682599825
+cerebrovascular disease,brain disease,1,1,0.7375215146299483
+cerebrovascular disease,encephalitis,1,1,0.639624539054643
+chest wall lymphoma,lymphoma,1,1,0.8599118133382327
+chest wall lymphoma,non-Hodgkin lymphoma,1,1,0.795121021536116
+chest wall lymphoma,nodal marginal zone lymphoma,1,1,0.6712041149244062
+chest wall lymphoma,N1 diffuse large B-cell lymphoma,1,1,0.6368485909004233
+chest wall lymphoma,intravascular large B-cell lymphoma,1,1,0.6712041149244062
+chest wall lymphoma,hematologic cancer,1,1,0.6360946745562129
+chest wall lymphoma,thymoma,1,1,0.6680753653812291
+chest wall lymphoma,thymic carcinoma,1,1,0.6190243106542666
+chest wall lymphoma,thoracic cancer,1,1,0.6558185404339251
+chest wall lymphoma,mediastinal malignant lymphoma,1,1,0.8506061123442035
+chest wall lymphoma,B-cell lymphoma,1,1,0.7589594324176824
+chest wall lymphoma,reticulosarcoma,1,1,0.6512109294141999
+chest wall lymphoma,Hodgkin's lymphoma,1,1,0.795121021536116
+mediastinal malignant lymphoma,lymphoma,1,1,0.8322422258592471
+mediastinal malignant lymphoma,non-Hodgkin lymphoma,1,1,0.7671129549311712
+mediastinal malignant lymphoma,nodal marginal zone lymphoma,1,1,0.643874643874644
+mediastinal malignant lymphoma,N1 diffuse large B-cell lymphoma,1,1,0.6091837268303196
+mediastinal malignant lymphoma,intravascular large B-cell lymphoma,1,1,0.643874643874644
+mediastinal malignant lymphoma,hematologic cancer,1,1,0.6058670707945443
+mediastinal malignant lymphoma,thymoma,1,1,0.6277244986922407
+mediastinal malignant lymphoma,thoracic cancer,1,1,0.6058670707945443
+mediastinal malignant lymphoma,chest wall lymphoma,1,1,0.8506061123442035
+mediastinal malignant lymphoma,B-cell lymphoma,1,1,0.7325769854132901
+mediastinal malignant lymphoma,reticulosarcoma,1,1,0.6224677716390424
+mediastinal malignant lymphoma,Hodgkin's lymphoma,1,1,0.7671129549311712
+B-cell lymphoma,lymphoma,1,1,0.8905429071803853
+B-cell lymphoma,non-Hodgkin lymphoma,1,1,0.9367792838357272
+B-cell lymphoma,nodal marginal zone lymphoma,1,1,0.883317153311926
+B-cell lymphoma,N1 diffuse large B-cell lymphoma,1,1,0.8373648368486702
+B-cell lymphoma,intravascular large B-cell lymphoma,1,1,0.883317153311926
+B-cell lymphoma,hematologic cancer,1,1,0.6570791265555295
+B-cell lymphoma,chest wall lymphoma,1,1,0.7589594324176824
+B-cell lymphoma,mediastinal malignant lymphoma,1,1,0.7325769854132901
+B-cell lymphoma,reticulosarcoma,1,1,0.6719681908548707
+B-cell lymphoma,Hodgkin's lymphoma,1,1,0.8229819947400364
+radiation cystitis,urinary system disease,1,1,0.6230845279288184
+thyroiditis,thyrocalcitonin secretion disease,1,1,0.7216035634743876
+thyroiditis,Riedel's fibrosing thyroiditis,1,1,0.8660522931847405
+thyroiditis,postsurgical hypothyroidism,1,1,0.6249464209172738
+thyroiditis,hypothyroidism,1,1,0.7216035634743876
+thyroiditis,thyroid gland disease,1,1,0.8536299765807963
+thyroiditis,thyrotoxicosis,1,1,0.7216035634743876
+thyroiditis,thyroid malformation,1,1,0.7216035634743876
+lymphatic system disease,hypersensitivity reaction disease,1,1,0.6835443037974683
+lymphatic system disease,splenic sequestration,1,1,0.7514361467079099
+lymphatic system disease,splenic disease,1,1,0.856979405034325
+lymphatic system disease,splenic infarction,1,1,0.7514361467079099
+lymphatic system disease,malignant histiocytic disease,1,1,0.7469635627530364
+lymphatic system disease,immune system disease,1,1,0.8287671232876712
+lymphatic system disease,autoimmune disease,1,1,0.6835443037974683
+lymphatic system disease,lymph node disease,1,1,0.856979405034325
+peptic ulcer disease,esophageal atresia/tracheoesophageal fistula,1,1,0.6753246753246753
+peptic ulcer disease,mucositis,1,1,0.6753246753246753
+peptic ulcer disease,diarrhea,1,1,0.6753246753246753
+peptic ulcer disease,gastroesophageal reflux disease,1,1,0.6753246753246753
+squamous papillomatosis,gastrointestinal adenoma,1,1,0.712182061579652
+muscular atrophy,inclusion body myositis,1,1,0.665790720058668
+muscular atrophy,myositis,1,1,0.7560309157623546
+abdominal aortic aneurysm,artery disease,1,1,0.6970985015810465
+abdominal aortic aneurysm,vascular disease,1,1,0.616793778974129
+abdominal aortic aneurysm,renal artery disease,1,1,0.6115375164419005
+abdominal aortic aneurysm,aortic aneurysm,1,1,0.8862693433100898
+end stage renal disease,acute kidney failure,1,1,0.6487918439431646
+end stage renal disease,kidney disease,1,1,0.6675241998779105
+end stage renal disease,chronic kidney disease,1,1,0.8745685156939873
+chronic kidney disease,nephritis,1,1,0.6249464209172738
+chronic kidney disease,urinary system disease,1,1,0.6230845279288184
+chronic kidney disease,acute kidney failure,1,1,0.7418422139611731
+chronic kidney disease,kidney disease,1,1,0.7469635627530364
+chronic kidney disease,proteinuria,1,1,0.6249464209172738
+chronic kidney disease,end stage renal disease,1,1,0.8745685156939873
+mixed oligodendroglioma-astrocytoma,mixed glioma,1,1,0.8780915970976048
+thyrotoxicosis,thyrocalcitonin secretion disease,1,1,0.7216035634743876
+thyrotoxicosis,Riedel's fibrosing thyroiditis,1,1,0.6249464209172738
+thyrotoxicosis,postsurgical hypothyroidism,1,1,0.6249464209172738
+thyrotoxicosis,hypothyroidism,1,1,0.7216035634743876
+thyrotoxicosis,thyroid gland disease,1,1,0.8536299765807963
+thyrotoxicosis,thyroiditis,1,1,0.7216035634743876
+thyrotoxicosis,thyroid malformation,1,1,0.7216035634743876
+Pancoast tumor,lung superior sulcus carcinoma,1,1,0.9233204102664768
+Pancoast tumor,lung disease,1,1,0.6069567882316886
+septic arthritis,connective tissue disease,1,1,0.6116312749440076
+myocarditis,cardiomyopathy,1,1,0.802866755449639
+myocarditis,arrhythmogenic biventricular cardiomyopathy,1,1,0.6173209061840942
+myocarditis,heart conduction disease,1,1,0.6232564659704214
+myocarditis,heart disease,1,1,0.7270351542922603
+myocarditis,congestive heart failure,1,1,0.6232564659704214
+myocarditis,rheumatic myocarditis,1,1,0.7832649255852558
+lung superior sulcus carcinoma,Pancoast tumor,1,1,0.9233204102664768
+upper clivus meningioma,bone cancer,1,1,0.6247041321315936
+perineural angioma,gastric hemangioma,1,1,0.6370899201087881
+perineural angioma,venous hemangioma,1,1,0.7170183395779925
+thyroid malformation,thyrocalcitonin secretion disease,1,1,0.7216035634743876
+thyroid malformation,Riedel's fibrosing thyroiditis,1,1,0.6249464209172738
+thyroid malformation,postsurgical hypothyroidism,1,1,0.6249464209172738
+thyroid malformation,hypothyroidism,1,1,0.7216035634743876
+thyroid malformation,thyroid gland disease,1,1,0.8536299765807963
+thyroid malformation,thyroiditis,1,1,0.7216035634743876
+thyroid malformation,thyrotoxicosis,1,1,0.7216035634743876
+influenza,respiratory system disease,1,1,0.6573033707865168
+influenza,viral infectious disease,1,1,0.6573033707865168
+localized scleroderma,limited scleroderma,1,1,0.665790720058668
+localized scleroderma,scleroderma,1,1,0.8745685156939873
+localized scleroderma,connective tissue disease,1,1,0.6675241998779105
+rheumatic myocarditis,cardiomyopathy,1,1,0.633654810678849
+rheumatic myocarditis,myocarditis,1,1,0.7832649255852558
+lung disease,invasive aspergillosis,1,1,0.6467181467181468
+lung disease,cryptogenic organizing pneumonia,1,1,0.699249009986905
+lung disease,pulmonary interstitial emphysema,1,1,0.6417831858269625
+lung disease,pneumoconiosis,1,1,0.6830985915492958
+lung disease,respiratory failure,1,1,0.8710276516714817
+lung disease,bronchopulmonary dysplasia,1,1,0.8710276516714817
+lung disease,bronchial disease,1,1,0.7334754797441365
+lung disease,pulmonary alveolar proteinosis,1,1,0.8710276516714817
+lung disease,pulmonary systemic sclerosis,1,1,0.6467181467181468
+lung disease,respiratory system disease,1,1,0.716624685138539
+lung disease,pneumothorax,1,1,0.6388774246801486
+lung disease,obstructive lung disease,1,1,0.8710276516714817
+lung disease,idiopathic interstitial pneumonia,1,1,0.773678281161986
+lung disease,asthma,1,1,0.6388774246801486
+lung disease,bronchiolitis,1,1,0.7895622895622895
+lung disease,pulmonary tuberculosis,1,1,0.6676684593483074
+lung disease,interstitial lung disease,1,1,0.7419627749576988
+lung disease,chronic obstructive pulmonary disease,1,1,0.773678281161986
+lung disease,aspiration pneumonitis,1,1,0.773678281161986
+lung disease,lung benign neoplasm,1,1,0.6428571428571429
+lung disease,pulmonary fibrosis,1,1,0.6830985915492958
+lung disease,pleural empyema,1,1,0.6388774246801486
+lung disease,pulmonary immaturity,1,1,0.8710276516714817
+lung disease,pneumonia,1,1,0.8710276516714817
+lung disease,lung clear cell-sugar-tumor,1,1,0.6069567882316886
+lung disease,hilar lung neoplasm,1,1,0.6069567882316886
+lung disease,bronchitis,1,1,0.6388774246801486
+lung disease,Pancoast tumor,1,1,0.6069567882316886
+lung disease,bacterial pneumonia,1,1,0.6597096188747732
+lung disease,pulmonary embolism,1,1,0.646700746620031
+lung disease,pulmonary eosinophilia,1,1,0.6958456973293768
+lung disease,bronchiectasis,1,1,0.6388774246801486
+lung disease,pulmonary emphysema,1,1,0.699249009986905
+bullous pemphigoid,vitiligo,1,1,0.7196200026388705
+subcorneal pustular dermatosis,dermatitis,1,1,0.7659565615378214
+subcorneal pustular dermatosis,acneiform dermatitis,1,1,0.6487918439431646
+acute pulmonary heart disease,cardiomyopathy,1,1,0.6064289375411877
+acute pulmonary heart disease,left ventricular failure,1,1,0.6851838526300641
+acute pulmonary heart disease,heart conduction disease,1,1,0.6064289375411877
+acute pulmonary heart disease,heart disease,1,1,0.714569139776896
+acute pulmonary heart disease,congestive heart failure,1,1,0.794061653364575
+acute pulmonary heart disease,Cor pulmonale,1,1,0.8875656616535943
+acute pulmonary heart disease,pulmonary embolism and infarction,1,1,0.8902939070113604
+Cor pulmonale,cardiomyopathy,1,1,0.6750835499443001
+Cor pulmonale,left ventricular failure,1,1,0.771981028821598
+Cor pulmonale,heart conduction disease,1,1,0.6750835499443001
+Cor pulmonale,heart disease,1,1,0.7863653627041399
+Cor pulmonale,congestive heart failure,1,1,0.8839584106943931
+Cor pulmonale,acute pulmonary heart disease,1,1,0.8875656616535943
+Cor pulmonale,pulmonary embolism and infarction,1,1,0.7998306122158485
+pulmonary embolism and infarction,left ventricular failure,1,1,0.6174540589013994
+pulmonary embolism and infarction,heart disease,1,1,0.6586013944606458
+pulmonary embolism and infarction,congestive heart failure,1,1,0.7239439271284377
+pulmonary embolism and infarction,acute pulmonary heart disease,1,1,0.8902939070113604
+pulmonary embolism and infarction,Cor pulmonale,1,1,0.7998306122158485
+gastroesophageal reflux disease,esophageal atresia/tracheoesophageal fistula,1,1,0.6753246753246753
+gastroesophageal reflux disease,mucositis,1,1,0.6753246753246753
+gastroesophageal reflux disease,diarrhea,1,1,0.6753246753246753
+gastroesophageal reflux disease,peptic ulcer disease,1,1,0.6753246753246753
+reticulosarcoma,lymphoma,1,1,0.759669125866309
+reticulosarcoma,non-Hodgkin lymphoma,1,1,0.7112462006079027
+reticulosarcoma,nodal marginal zone lymphoma,1,1,0.6087860670652456
+reticulosarcoma,intravascular large B-cell lymphoma,1,1,0.6087860670652456
+reticulosarcoma,thymoma,1,1,0.6527925249522192
+reticulosarcoma,chest wall lymphoma,1,1,0.6512109294141999
+reticulosarcoma,mediastinal malignant lymphoma,1,1,0.6224677716390424
+reticulosarcoma,B-cell lymphoma,1,1,0.6719681908548707
+reticulosarcoma,Hodgkin's lymphoma,1,1,0.7112462006079027
+Hodgkin's lymphoma,lymphoma,1,1,0.9360809981591328
+Hodgkin's lymphoma,non-Hodgkin lymphoma,1,1,0.866822927764756
+Hodgkin's lymphoma,nodal marginal zone lymphoma,1,1,0.7298042338692036
+Hodgkin's lymphoma,N1 diffuse large B-cell lymphoma,1,1,0.6929079075199938
+Hodgkin's lymphoma,intravascular large B-cell lymphoma,1,1,0.7298042338692036
+Hodgkin's lymphoma,leukemia,1,1,0.6182000501378793
+Hodgkin's lymphoma,hematologic cancer,1,1,0.6980543776502869
+Hodgkin's lymphoma,chest wall lymphoma,1,1,0.795121021536116
+Hodgkin's lymphoma,mediastinal malignant lymphoma,1,1,0.7671129549311712
+Hodgkin's lymphoma,B-cell lymphoma,1,1,0.8229819947400364
+Hodgkin's lymphoma,reticulosarcoma,1,1,0.7112462006079027
+infectious mononucleosis,viral infectious disease,1,1,0.7093023255813954
+measles,Coronavirus infectious disease,1,1,0.6835443037974683
+measles,milker's nodule,1,1,0.6753246753246753
+measles,viral infectious disease,1,1,0.8239436619718311
+Kaposi's sarcoma,bone cancer,1,1,0.7199323610230396
+Kaposi's sarcoma,muscle cancer,1,1,0.6004951609273014
+Kaposi's sarcoma,well-differentiated liposarcoma,1,1,0.690232384158601
+chronic intestinal vascular insufficiency,inflammatory bowel disease,1,1,0.7216035634743876
+chronic intestinal vascular insufficiency,anal fistula,1,1,0.6249464209172738
+chronic intestinal vascular insufficiency,protein-losing enteropathy,1,1,0.7216035634743876
+chronic intestinal vascular insufficiency,functional diarrhea,1,1,0.6312684365781711
+chronic intestinal vascular insufficiency,intestinal perforation,1,1,0.7216035634743876
+chronic intestinal vascular insufficiency,duodenal obstruction,1,1,0.6312684365781711
+chronic intestinal vascular insufficiency,duodenogastric reflux,1,1,0.6312684365781711
+chronic intestinal vascular insufficiency,bowel dysfunction,1,1,0.7216035634743876
+vasculitis,artery disease,1,1,0.7216035634743876
+vasculitis,peripheral artery disease,1,1,0.6249464209172738
+vasculitis,limb ischemia,1,1,0.6249464209172738
+vasculitis,thrombosis,1,1,0.7216035634743876
+vasculitis,Raynaud disease,1,1,0.6249464209172738
+vasculitis,hypertension,1,1,0.6249464209172738
+vasculitis,vascular disease,1,1,0.8536299765807963
+vasculitis,renal artery disease,1,1,0.6492985971943889
+vasculitis,ischemia,1,1,0.7216035634743876
+vasculitis,coronary artery disease,1,1,0.6249464209172738
+vasculitis,peripheral vascular disease,1,1,0.7216035634743876
+vasculitis,Shwartzman phenomenon,1,1,0.8660522931847405
+paraneoplastic polyneuropathy,motor peripheral neuropathy,1,1,0.6487918439431646
+paraneoplastic polyneuropathy,sensory peripheral neuropathy,1,1,0.6487918439431646
+paraneoplastic polyneuropathy,neuropathy,1,1,0.7659565615378214
+neuropathy,polyneuropathy,1,1,0.7216035634743876
+neuropathy,optic nerve disease,1,1,0.7772630078403421
+neuropathy,motor peripheral neuropathy,1,1,0.8660522931847405
+neuropathy,sensory peripheral neuropathy,1,1,0.8660522931847405
+neuropathy,paraneoplastic polyneuropathy,1,1,0.7659565615378214
+in situ carcinoma,pulmonary adenocarcinoma in situ,1,1,0.7289679098005204
+in situ carcinoma,disease of cellular proliferation,1,1,0.6212121212121212
+in situ carcinoma,lobular neoplasia,1,1,0.6299638989169676
+in situ carcinoma,adenocarcinoma in situ,1,1,0.841611758743031
+milker's nodule,Coronavirus infectious disease,1,1,0.6835443037974683
+milker's nodule,measles,1,1,0.6753246753246753
+milker's nodule,viral infectious disease,1,1,0.8239436619718311
+bacterial pneumonia,idiopathic interstitial pneumonia,1,1,0.654984273701778
+bacterial pneumonia,pulmonary tuberculosis,1,1,0.6505248720789155
+bacterial pneumonia,aspiration pneumonitis,1,1,0.654984273701778
+bacterial pneumonia,pneumonia,1,1,0.7502783782013492
+bacterial pneumonia,lung disease,1,1,0.6597096188747732
+skin melanoma,melanoma,1,1,0.6030115395440473
+skin melanoma,basal cell carcinoma,1,1,0.7234628709771674
+skin melanoma,skin squamous cell carcinoma,1,1,0.6798390047566777
+skin melanoma,Merkel cell carcinoma,1,1,0.7117936224822726
+skin melanoma,skin cancer,1,1,0.826822620940268
+skin melanoma,clear cell basal cell carcinoma,1,1,0.6786910500852497
+skin melanoma,malignant dermis tumor,1,1,0.7557373324244491
+autoimmune thrombocytopenic purpura,autoimmune disease,1,1,0.6561908197312653
+learning disability,alcohol-related birth defects,1,1,0.6028864482163928
+learning disability,attention deficit hyperactivity disorder,1,1,0.7025226082817706
+systemic lupus erythematosus,vitiligo,1,1,0.6279128038085693
+systemic lupus erythematosus,connective tissue disease,1,1,0.6343543334493561
+acute myeloid leukemia,chronic neutrophilic leukemia,1,1,0.6514221974344674
+acute myeloid leukemia,acute myeloid leukemia with minimal differentiation,1,1,0.902864638376705
+acute myeloid leukemia,chronic leukemia,1,1,0.7299549410530215
+acute myeloid leukemia,leukemia,1,1,0.8272526257600885
+acute myeloid leukemia,hematologic cancer,1,1,0.7672608509858984
+acute myeloid leukemia,bone marrow cancer,1,1,0.6356086023871075
+lichen planus,epidermal nevus,1,1,0.6249464209172738
+lichen planus,dermatitis,1,1,0.6249464209172738
+Barrett's esophagus,esophagitis,1,1,0.7216035634743876
+Barrett's esophagus,peptic esophagitis,1,1,0.6249464209172738
+colorectal cancer,small intestine cancer,1,1,0.7784473590925204
+colorectal cancer,rectum malignant melanoma,1,1,0.7673256769501442
+colorectal cancer,colon cancer,1,1,0.8741554431965637
+colorectal cancer,colon adenocarcinoma,1,1,0.6807009619183028
+colorectal cancer,rectosigmoid cancer,1,1,0.7406134924243831
+colorectal cancer,submucosal invasive colon adenocarcinoma,1,1,0.660969574570034
+colorectal cancer,jejunal somatostatinoma,1,1,0.6586916427106839
+colorectal cancer,anal carcinoma,1,1,0.6433198140606082
+colorectal cancer,esophageal cancer,1,1,0.6241838335779725
+nasopharynx carcinoma,esophageal carcinoma,1,1,0.6132452633408656
+nasopharynx carcinoma,bronchus carcinoma,1,1,0.6058732612055642
+primary cerebellar degeneration,multisystem proteinopathy,1,1,0.6586564718732933
+primary cerebellar degeneration,Alzheimer's disease,1,1,0.6487918439431646
+primary cerebellar degeneration,hemiplegia,1,1,0.6249464209172738
+primary cerebellar degeneration,subdural empyema,1,1,0.6249464209172738
+primary cerebellar degeneration,Huntington's disease,1,1,0.7418422139611731
+primary cerebellar degeneration,Parkinson's disease,1,1,0.6487918439431646
+primary cerebellar degeneration,demyelinating disease,1,1,0.6249464209172738
+primary cerebellar degeneration,plexopathy,1,1,0.7418422139611731
+primary cerebellar degeneration,brain disease,1,1,0.6328157784305498
+viral infectious disease,Coronavirus infectious disease,1,1,0.8287671232876712
+viral infectious disease,COVID-19,1,1,0.7093023255813954
+viral infectious disease,influenza,1,1,0.6573033707865168
+viral infectious disease,infectious mononucleosis,1,1,0.7093023255813954
+viral infectious disease,measles,1,1,0.8239436619718311
+viral infectious disease,milker's nodule,1,1,0.8239436619718311
+brain disease,La Crosse encephalitis,1,1,0.734597981204316
+brain disease,cerebellar ataxia,1,1,0.6597096188747732
+brain disease,stroke,1,1,0.6786833855799373
+brain disease,ischemic stroke,1,1,0.6305999015401927
+brain disease,traumatic brain injury,1,1,0.8710276516714817
+brain disease,Huntington's disease-like 1,1,1,0.7202245541938799
+brain disease,complex cortical dysplasia with other brain malformations,1,1,0.8710276516714817
+brain disease,Eastern equine encephalitis,1,1,0.734597981204316
+brain disease,hemiplegia,1,1,0.7276688453159041
+brain disease,subdural empyema,1,1,0.7276688453159041
+brain disease,pseudotumor cerebri,1,1,0.773678281161986
+brain disease,Huntington's disease,1,1,0.6328157784305498
+brain disease,intracranial arterial disease,1,1,0.6786833855799373
+brain disease,epilepsy,1,1,0.8710276516714817
+brain disease,cerebral palsy,1,1,0.8710276516714817
+brain disease,brain ischemia,1,1,0.6243191284844601
+brain disease,vascular myelopathy,1,1,0.6388774246801486
+brain disease,demyelinating disease,1,1,0.7276688453159041
+brain disease,myelitis,1,1,0.6388774246801486
+brain disease,frontal lobe epilepsy,1,1,0.699249009986905
+brain disease,plexopathy,1,1,0.6328157784305498
+brain disease,intracranial thrombosis,1,1,0.6243191284844601
+brain disease,intracranial embolism,1,1,0.6786833855799373
+brain disease,brain edema,1,1,0.8710276516714817
+brain disease,movement disease,1,1,0.8710276516714817
+brain disease,occlusion precerebral artery,1,1,0.6786833855799373
+brain disease,central pontine myelinolysis,1,1,0.6328157784305498
+brain disease,cerebrovascular disease,1,1,0.7375215146299483
+brain disease,primary cerebellar degeneration,1,1,0.6328157784305498
+brain disease,hypertensive encephalopathy,1,1,0.773678281161986
+brain disease,encephalitis,1,1,0.8710276516714817
+acute myocardial infarction,artery disease,1,1,0.6900053664644756
+acute myocardial infarction,nonobstructive coronary artery disease,1,1,0.665790720058668
+acute myocardial infarction,vascular disease,1,1,0.6074000306419488
+acute myocardial infarction,renal artery disease,1,1,0.6032800436945516
+acute myocardial infarction,coronary artery disease,1,1,0.7792143563656918
+acute myocardial infarction,myocardial infarction,1,1,0.8806395428780958
+acute myocardial infarction,inferior myocardial infarction,1,1,0.7663062173763481
+hypertensive encephalopathy,traumatic brain injury,1,1,0.6586564718732933
+hypertensive encephalopathy,complex cortical dysplasia with other brain malformations,1,1,0.6586564718732933
+hypertensive encephalopathy,pseudotumor cerebri,1,1,0.7619773021555336
+hypertensive encephalopathy,epilepsy,1,1,0.6586564718732933
+hypertensive encephalopathy,cerebral palsy,1,1,0.6586564718732933
+hypertensive encephalopathy,brain edema,1,1,0.6586564718732933
+hypertensive encephalopathy,movement disease,1,1,0.6586564718732933
+hypertensive encephalopathy,brain disease,1,1,0.773678281161986
+hypertensive encephalopathy,encephalitis,1,1,0.6586564718732933
+pulmonary embolism,artery disease,1,1,0.6406581377847712
+pulmonary embolism,lung disease,1,1,0.646700746620031
+pulmonary eosinophilia,respiratory failure,1,1,0.6030215364834459
+pulmonary eosinophilia,bronchopulmonary dysplasia,1,1,0.6030215364834459
+pulmonary eosinophilia,pulmonary alveolar proteinosis,1,1,0.6030215364834459
+pulmonary eosinophilia,obstructive lung disease,1,1,0.6030215364834459
+pulmonary eosinophilia,pulmonary immaturity,1,1,0.6030215364834459
+pulmonary eosinophilia,pneumonia,1,1,0.6030215364834459
+pulmonary eosinophilia,lung disease,1,1,0.6958456973293768
+multiple myeloma,"myeloid and lymphoid neoplasms with eosinophilia and abnormalities of PDGFRA, PDGFRB, and FGFR1",1,1,0.7899361405867384
+multiple myeloma,myeloid and lymphoid neoplasms associated with PDGFRA rearrangement,1,1,0.7260454107127204
+multiple myeloma,leukemia,1,1,0.6241457858769932
+multiple myeloma,essential thrombocythemia,1,1,0.7260454107127204
+multiple myeloma,hematologic cancer,1,1,0.7047343238478974
+multiple myeloma,bone marrow cancer,1,1,0.8123989840683445
+bronchiectasis,bronchial disease,1,1,0.8710276516714817
+bronchiectasis,respiratory system disease,1,1,0.6303926320891904
+bronchiectasis,asthma,1,1,0.7500999600159937
+bronchiectasis,bronchiolitis,1,1,0.6819338422391859
+bronchiectasis,bronchitis,1,1,0.7500999600159937
+bronchiectasis,lung disease,1,1,0.6388774246801486
+encephalitis,La Crosse encephalitis,1,1,0.6357167062012878
+encephalitis,traumatic brain injury,1,1,0.7500999600159937
+encephalitis,Huntington's disease-like 1,1,1,0.6165370621388314
+encephalitis,complex cortical dysplasia with other brain malformations,1,1,0.7500999600159937
+encephalitis,Eastern equine encephalitis,1,1,0.6357167062012878
+encephalitis,hemiplegia,1,1,0.6312684365781711
+encephalitis,subdural empyema,1,1,0.6312684365781711
+encephalitis,pseudotumor cerebri,1,1,0.6586564718732933
+encephalitis,epilepsy,1,1,0.7500999600159937
+encephalitis,cerebral palsy,1,1,0.7500999600159937
+encephalitis,demyelinating disease,1,1,0.6312684365781711
+encephalitis,brain edema,1,1,0.7500999600159937
+encephalitis,movement disease,1,1,0.7500999600159937
+encephalitis,cerebrovascular disease,1,1,0.639624539054643
+encephalitis,brain disease,1,1,0.8710276516714817
+encephalitis,hypertensive encephalopathy,1,1,0.6586564718732933
+pulmonary emphysema,pulmonary interstitial emphysema,1,1,0.8870036477030462
+pulmonary emphysema,obstructive lung disease,1,1,0.7847565548803822
+pulmonary emphysema,chronic obstructive pulmonary disease,1,1,0.8832090054265768
+pulmonary emphysema,lung disease,1,1,0.699249009986905
+bowel dysfunction,inflammatory bowel disease,1,1,0.7216035634743876
+bowel dysfunction,anal fistula,1,1,0.6249464209172738
+bowel dysfunction,protein-losing enteropathy,1,1,0.7216035634743876
+bowel dysfunction,functional diarrhea,1,1,0.6312684365781711
+bowel dysfunction,intestinal perforation,1,1,0.7216035634743876
+bowel dysfunction,duodenal obstruction,1,1,0.6312684365781711
+bowel dysfunction,duodenogastric reflux,1,1,0.6312684365781711
+bowel dysfunction,chronic intestinal vascular insufficiency,1,1,0.7216035634743876
+hypersensitivity vasculitis,hypersensitivity reaction disease,1,1,0.7372723026623075
+hypersensitivity vasculitis,immune system disease,1,1,0.6170266197890507
+cardiovascular syphilis,secondary syphilis,1,1,0.6404799079628564
+infected hydrocele,sexual dysfunction,1,1,0.6249464209172738
+lymph node disease,splenic sequestration,1,1,0.6388774246801486
+lymph node disease,splenic disease,1,1,0.7334754797441365
+lymph node disease,splenic infarction,1,1,0.6388774246801486
+lymph node disease,malignant histiocytic disease,1,1,0.6328157784305498
+lymph node disease,immune system disease,1,1,0.716624685138539
+lymph node disease,lymph node tuberculosis,1,1,0.6467181467181468
+lymph node disease,lymphatic system disease,1,1,0.856979405034325
+obesity,morbid obesity,1,1,0.8691220076055819
+drug dependence,alcohol dependence,1,1,0.7025226082817706
+drug dependence,nicotine dependence,1,1,0.7025226082817706
+drug dependence,substance-related disorder,1,1,0.6897407611693327
