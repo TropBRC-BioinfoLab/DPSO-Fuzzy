@@ -1,0 +1,13 @@
+{
+    "k": 3,
+    "beta": 0.5,
+    "r": 1.5,
+    "init_iter": 5,
+    "max_iter": 100,
+    "max_communities": null,
+    "selection": {
+        "type": "grid_search",
+        "objective": "maximize_fuzzy_modularity_qg",
+        "best_qg": 0.6032043622544702
+    }
+}

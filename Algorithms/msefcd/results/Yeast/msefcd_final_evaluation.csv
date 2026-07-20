@@ -1,0 +1,2 @@
+k,beta,r,init_iter,max_iter,max_communities,selected_alpha_threshold,threshold_objective,fuzzy_modularity_qg,n_communities,n_predicted_communities,n_overlapping_nodes,onmi,omega,comm_recall,comm_precision,comm_F1,average_score
+4,1.0,2.0,5,100,,0.5,comm_F1,0.8125765904405354,35,35,55,0.18831096350197107,0.12475767821483377,0.2364650379847776,0.5623331697141299,0.3329304774471241,0.28895946537256734

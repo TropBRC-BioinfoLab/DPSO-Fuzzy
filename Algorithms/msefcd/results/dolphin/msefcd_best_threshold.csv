@@ -1,0 +1,2 @@
+alpha_threshold,fuzzy_modularity_qg,n_communities,n_predicted_communities,n_overlapping_nodes,onmi,omega,comm_recall,comm_precision,comm_F1,average_score
+0.3,0.5182196555189307,4,4,4,0.4844794350838382,0.4744941204943914,0.831554878048746,0.6273563863927862,0.7151651729547152,0.6266099985948953
